@@ -1,2 +1,3 @@
-# sankomdesign
-UI Guideline
+# Sankom Design System
+
+Documented by Markdown files.
