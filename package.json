@@ -1,13 +1,24 @@
 {
-  "name": "Sankom Design",
+  "name": "sankom-design",
   "version": "1.0.0",
   "description": "Sankom",
   "directories": {
     "doc": "docs"
   },
+  "scripts": {
+    "test": "true",
+    "build": "docpress b",
+    "deploy": "git-update-ghpages -e --keep sankomdesign/sankomdesign _docpress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankomdesign/sankomdesign.git"
+  },
+  "author": "Apirak Panatkool <apirakb@gmail.com>",
+  "license": "MIT",
   "homepage": "https://github.com/sankomdesign/sankomdesign",
   "devDependencies": {
-    "docpress": "0.6.10",
+    "docpress": "0.7.6",
     "git-update-ghpages": "1.3.0",
     "markdown-it-decorate": "1.2.1"
   }

@@ -6,7 +6,7 @@
 - [Getting Start](getting-start.md)
 - [Design Principle](design-principle.md)
 
-- Pattern
+- Guideline
   - [Navigation](navigation.md)
   - Panel
   - Element
@@ -14,7 +14,6 @@
   - Account
 
 - Visual
-
   - Color
   - Layout
   - Font
