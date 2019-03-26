@@ -1,16 +1,16 @@
 language: node_js
 node_js:
-- 4
-
+- "4"
+script:
+- npm run build
+after_success:
+  - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then npm run deploy; fi
+cache:
+  directories:
+  - node_modules
 env:
   global:
     - GIT_NAME: SankomDesign
     - GIT_EMAIL: sankomdesign/sankomdesign 
     - GITHUB_REPO: sankomdesign/sankomdesign 
     - GIT_SOURCE: _docpress
-
-script:
-- npm install docpress && ./node_modules/.bin/docpress build
-
-after_success:
-- if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then npm install git-update-ghpages && ./node_modules/.bin/git-update-ghpages -e; fi
