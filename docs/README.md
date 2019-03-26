@@ -3,17 +3,8 @@
 
 - Sankom Design
 
-- Getting Start
-  - [Introduction](introduction.md)
-  - Design Value
-  - Behavior
-  - Cases
-
-- Principle
-  - Contrast
-  - Repitition
-  - Alignment
-  - Proximity
+- [Getting Start](getting-start.md)
+- [Design Principle](design-principle.md)
 
 - Pattern
   - [Navigation](navigation.md)
