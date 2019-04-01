@@ -1,7 +1,7 @@
 # Table of contents
 =============
 
-- Sankom Design
+- [Sankom Design](../README.md)
 
 - [Getting Start](getting-start.md)
 - [Design Principle](design-principle.md)
@@ -18,5 +18,3 @@
   - Layout
   - Font
   - Icon
-
-- [Readme](../README.md)
