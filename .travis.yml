@@ -11,6 +11,6 @@ cache:
 env:
   global:
     - GIT_NAME: SankomDesign
-    - GIT_EMAIL: sankomdesign/sankomdesign 
-    - GITHUB_REPO: sankomdesign/sankomdesign 
+    - GIT_EMAIL: sankomdesign/sankomdesign.github.io
+    - GITHUB_REPO: sankomdesign/sankomdesign.github.io
     - GIT_SOURCE: _docpress
