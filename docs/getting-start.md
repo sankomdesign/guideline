@@ -8,7 +8,7 @@ introduction
 
 ## Design Value
 
-value
+update from TongTang
 
 
 ## Behavior
