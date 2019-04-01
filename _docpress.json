@@ -2,7 +2,17 @@
   "toc": {
     "sections": [
       {
-        "title": "Sankom Design"
+        "title": "Sankom Design",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index",
+        "headings": [
+          {
+            "title": "บทนำ",
+            "depth": 2,
+            "id": ""
+          }
+        ]
       },
       {
         "title": "Getting Start",
@@ -106,16 +116,23 @@
             "title": "Icon"
           }
         ]
-      },
-      {
-        "title": "Readme",
-        "source": "README.md",
-        "url": "index.html",
-        "slug": "index"
       }
     ]
   },
   "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Sankom Design",
+      "pageTitle": "Sankom Design",
+      "slug": "index",
+      "headings": [
+        {
+          "title": "บทนำ",
+          "depth": 2,
+          "id": ""
+        }
+      ]
+    },
     "getting-start.html": {
       "source": "docs/getting-start.md",
       "title": "Getting Start - Sankom Design",
@@ -184,19 +201,15 @@
           "id": "repitition"
         }
       ]
-    },
-    "index.html": {
-      "source": "README.md",
-      "title": "Readme - Sankom Design",
-      "pageTitle": "Readme",
-      "slug": "index"
     }
   },
   "sources": {
+    "README.md": "index.html",
     "docs/getting-start.md": "getting-start.html",
     "docs/design-principle.md": "design-principle.html",
     "docs/navigation.md": "navigation.html",
-    "README.md": "index.html",
+    "docs/docpress.json": "docpress.json",
+    "docs/extra.css": "extra.css",
     "docs/images/logo-sansiri.jpg": "images/logo-sansiri.jpg"
   }
 }
