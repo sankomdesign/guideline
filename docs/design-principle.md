@@ -5,7 +5,7 @@ Intro
 
 ## Contrast
 
-asdf
+Guideline ja++
 
 ## Repition
 
