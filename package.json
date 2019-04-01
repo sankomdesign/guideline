@@ -2,6 +2,7 @@
   "name": "sankom-design",
   "version": "1.0.0",
   "description": "Sankom",
+  "main": "index.js",
   "directories": {
     "doc": "docs"
   },
