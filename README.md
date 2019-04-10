@@ -13,7 +13,7 @@
 
 หากต้องการเข้ามาช่วยกันปรับแก้เอกสารฉบับนี้สามารถส่ง [Pull Request](https://help.github.com/en/articles/about-pull-requests) มาได้ที่ [Github](https://github.com/sankomdesign/guideline)
 
-
+[https://sankomdesign.github.io/guideline](https://sankomdesign.github.io/guideline/)
 
 มาเริ่มต้นจากความเข้าใจพื้นฐานกัน [Getting Start](docs/getting-start.md)
 
