@@ -1,7 +1,7 @@
 {
   "github": "sankomdesign/guideline",
   "css": [
-    "http://ricostacruz.com/docpress-rsc/style.css",
+    "https://ricostacruz.com/docpress-rsc/style.css",
     "docs/extra.css"
   ],
   "markdown": {
