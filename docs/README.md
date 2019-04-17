@@ -9,9 +9,10 @@
 - Guideline
   - [Navigation](navigation.md)
   - Panel
-  - Element
+  - [Element](element.md)
   - Plugin
-  - Account
+  - New Account
+  
 
 - Visual
   - Color
