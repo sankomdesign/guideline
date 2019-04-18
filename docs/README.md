@@ -1,3 +1,4 @@
+
 # Table of contents
 =============
 
@@ -7,9 +8,9 @@
 - [Design Principle](design-principle.md)
 
 - Guideline
-  - [Navigation](navigation.md)
+  - [Navigation](guideline-navigation.md)
   - Panel
-  - [Element](element.md)
+  - [Element](guideline-element.md)
   - Plugin
   - New Account
   
@@ -17,5 +18,5 @@
 - Visual
   - Color
   - Layout
-  - Font
+  - [Font](visual-font.md)
   - Icon
