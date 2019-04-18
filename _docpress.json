@@ -248,6 +248,9 @@
     "docs/extra.css": "extra.css",
     "docs/favicon.ico": "favicon.ico",
     "docs/images/logo-sansiri.jpg": "images/logo-sansiri.jpg",
-    "docs/images/application bar/Group.png": "images/application bar/Group.png"
+    "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
+    "docs/images/application-bar/700.png": "images/application-bar/700.png",
+    "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
+    "docs/images/input-control/Radio.png": "images/input-control/Radio.png"
   }
 }
