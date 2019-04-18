@@ -70,9 +70,9 @@
         "sections": [
           {
             "title": "Navigation",
-            "source": "docs/navigation.md",
-            "url": "navigation.html",
-            "slug": "navigation",
+            "source": "docs/guideline-navigation.md",
+            "url": "guideline-navigation.html",
+            "slug": "guideline-navigation",
             "headings": [
               {
                 "title": "Contrast",
@@ -91,13 +91,13 @@
           },
           {
             "title": "Element",
-            "source": "docs/element.md",
-            "url": "element.html",
-            "slug": "element",
+            "source": "docs/guideline-element.md",
+            "url": "guideline-element.html",
+            "slug": "guideline-element",
             "headings": [
               {
                 "title": "Atomic design concept",
-                "depth": 3,
+                "depth": 2,
                 "id": "atomic-design-concept"
               },
               {
@@ -123,7 +123,17 @@
                     "title": "Layout"
                   },
                   {
-                    "title": "Font"
+                    "title": "Font",
+                    "source": "docs/visual-font.md",
+                    "url": "visual-font.html",
+                    "slug": "visual-font",
+                    "headings": [
+                      {
+                        "title": "Type scale",
+                        "depth": 2,
+                        "id": "type-scale"
+                      }
+                    ]
                   },
                   {
                     "title": "Icon"
@@ -201,11 +211,11 @@
         }
       ]
     },
-    "navigation.html": {
-      "source": "docs/navigation.md",
+    "guideline-navigation.html": {
+      "source": "docs/guideline-navigation.md",
       "title": "Navigation - Sankom Design",
       "pageTitle": "Navigation",
-      "slug": "navigation",
+      "slug": "guideline-navigation",
       "headings": [
         {
           "title": "Contrast",
@@ -219,15 +229,15 @@
         }
       ]
     },
-    "element.html": {
-      "source": "docs/element.md",
+    "guideline-element.html": {
+      "source": "docs/guideline-element.md",
       "title": "Element - Sankom Design",
       "pageTitle": "Element",
-      "slug": "element",
+      "slug": "guideline-element",
       "headings": [
         {
           "title": "Atomic design concept",
-          "depth": 3,
+          "depth": 2,
           "id": "atomic-design-concept"
         },
         {
@@ -236,14 +246,28 @@
           "id": "button"
         }
       ]
+    },
+    "visual-font.html": {
+      "source": "docs/visual-font.md",
+      "title": "Font - Sankom Design",
+      "pageTitle": "Font",
+      "slug": "visual-font",
+      "headings": [
+        {
+          "title": "Type scale",
+          "depth": 2,
+          "id": "type-scale"
+        }
+      ]
     }
   },
   "sources": {
     "README.md": "index.html",
     "docs/getting-start.md": "getting-start.html",
     "docs/design-principle.md": "design-principle.html",
-    "docs/navigation.md": "navigation.html",
-    "docs/element.md": "element.html",
+    "docs/guideline-navigation.md": "guideline-navigation.html",
+    "docs/guideline-element.md": "guideline-element.html",
+    "docs/visual-font.md": "visual-font.html",
     "docs/docpress.json": "docpress.json",
     "docs/extra.css": "extra.css",
     "docs/favicon.ico": "favicon.ico",
@@ -251,6 +275,8 @@
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
     "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
-    "docs/images/input-control/Radio.png": "images/input-control/Radio.png"
+    "docs/images/input-control/Radio.png": "images/input-control/Radio.png",
+    "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
+    "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg"
   }
 }
