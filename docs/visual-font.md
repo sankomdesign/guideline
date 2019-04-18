@@ -33,3 +33,15 @@ Fonts
 | Body 2      | Regular     | 14          |
 | Caption     | Regular     | 12          |
 
+## Basic title and Placement
+ตัวอย่างการวางหัวเรื่อง ให้การสื่อสารระหว่าง Designer และ Developer นั้นเป็นไปในแนวทางเดียวกันและเกิดความเป็นระเบียบสวยงาม
+
+##### 1. Sitting on baseline
+ใช้เส้นฐานของชุดอักษรแตะเส้นสมมุติที่ได้กำหนดไว้
+![baseline](images/visual-font/04.jpg)
+
+##### 2. Vertically Centered
+![vertically](images/visual-font/05.jpg)
+โดยไม่สนใจเส้นฐานของตัวอักษร แต่สนใจว่าจัดกลางในแนวตั้งรึเปล่า
+
+## Tone of voice
