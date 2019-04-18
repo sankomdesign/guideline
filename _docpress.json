@@ -104,6 +104,21 @@
                 "title": "Button",
                 "depth": 2,
                 "id": "button"
+              },
+              {
+                "title": "Checkbox",
+                "depth": 2,
+                "id": "checkbox"
+              },
+              {
+                "title": "Radio",
+                "depth": 2,
+                "id": "radio"
+              },
+              {
+                "title": "Switch",
+                "depth": 2,
+                "id": "switch"
               }
             ]
           },
@@ -244,6 +259,21 @@
           "title": "Button",
           "depth": 2,
           "id": "button"
+        },
+        {
+          "title": "Checkbox",
+          "depth": 2,
+          "id": "checkbox"
+        },
+        {
+          "title": "Radio",
+          "depth": 2,
+          "id": "radio"
+        },
+        {
+          "title": "Switch",
+          "depth": 2,
+          "id": "switch"
         }
       ]
     },
@@ -275,7 +305,9 @@
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
     "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
+    "docs/images/input-control/Checkbox.png": "images/input-control/Checkbox.png",
     "docs/images/input-control/Radio.png": "images/input-control/Radio.png",
+    "docs/images/input-control/Switch.png": "images/input-control/Switch.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg"
   }
