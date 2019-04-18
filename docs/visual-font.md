@@ -10,10 +10,12 @@ Fonts
 ---
 
 ![Roboto-SanSerif](images/visual-font/01.jpg)
+[Download Roboto](https://fonts.google.com/specimen/Roboto)
 
 ---
 
 ![Sarabun-SanSerif](images/visual-font/02.jpg)
+[Download Sarabun](https://fonts.google.com/specimen/Sarabun)
 
 ## Type scale
 
