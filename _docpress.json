@@ -147,6 +147,16 @@
                         "title": "Type scale",
                         "depth": 2,
                         "id": "type-scale"
+                      },
+                      {
+                        "title": "Basic title and Placement",
+                        "depth": 2,
+                        "id": "basic-title-and-placement"
+                      },
+                      {
+                        "title": "Tone of voice",
+                        "depth": 2,
+                        "id": "tone-of-voice"
                       }
                     ]
                   },
@@ -287,6 +297,16 @@
           "title": "Type scale",
           "depth": 2,
           "id": "type-scale"
+        },
+        {
+          "title": "Basic title and Placement",
+          "depth": 2,
+          "id": "basic-title-and-placement"
+        },
+        {
+          "title": "Tone of voice",
+          "depth": 2,
+          "id": "tone-of-voice"
         }
       ]
     }
@@ -309,6 +329,8 @@
     "docs/images/input-control/Radio.png": "images/input-control/Radio.png",
     "docs/images/input-control/Switch.png": "images/input-control/Switch.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
-    "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg"
+    "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
+    "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
+    "docs/images/visual-font/05.jpg": "images/visual-font/05.jpg"
   }
 }
