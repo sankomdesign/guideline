@@ -106,19 +106,36 @@
                 "id": "button"
               },
               {
-                "title": "Checkbox",
+                "title": "Selection Control",
                 "depth": 2,
-                "id": "checkbox"
-              },
-              {
-                "title": "Radio",
-                "depth": 2,
-                "id": "radio"
-              },
-              {
-                "title": "Switch",
-                "depth": 2,
-                "id": "switch"
+                "id": "selection-control",
+                "headings": [
+                  {
+                    "title": "Checkbox",
+                    "depth": 3,
+                    "id": "checkbox"
+                  },
+                  {
+                    "title": "Radio",
+                    "depth": 3,
+                    "id": "radio"
+                  },
+                  {
+                    "title": "Switch",
+                    "depth": 3,
+                    "id": "switch"
+                  },
+                  {
+                    "title": "State",
+                    "depth": 3,
+                    "id": "state"
+                  },
+                  {
+                    "title": "Speces",
+                    "depth": 3,
+                    "id": "speces"
+                  }
+                ]
               }
             ]
           },
@@ -271,19 +288,36 @@
           "id": "button"
         },
         {
-          "title": "Checkbox",
+          "title": "Selection Control",
           "depth": 2,
-          "id": "checkbox"
-        },
-        {
-          "title": "Radio",
-          "depth": 2,
-          "id": "radio"
-        },
-        {
-          "title": "Switch",
-          "depth": 2,
-          "id": "switch"
+          "id": "selection-control",
+          "headings": [
+            {
+              "title": "Checkbox",
+              "depth": 3,
+              "id": "checkbox"
+            },
+            {
+              "title": "Radio",
+              "depth": 3,
+              "id": "radio"
+            },
+            {
+              "title": "Switch",
+              "depth": 3,
+              "id": "switch"
+            },
+            {
+              "title": "State",
+              "depth": 3,
+              "id": "state"
+            },
+            {
+              "title": "Speces",
+              "depth": 3,
+              "id": "speces"
+            }
+          ]
         }
       ]
     },
@@ -326,8 +360,20 @@
     "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
     "docs/images/design-principle/text-contrast.png": "images/design-principle/text-contrast.png",
+    "docs/images/input-control/Checkbox-Case.jpg": "images/input-control/Checkbox-Case.jpg",
+    "docs/images/input-control/Checkbox-Specs.jpg": "images/input-control/Checkbox-Specs.jpg",
+    "docs/images/input-control/Checkbox.jpg": "images/input-control/Checkbox.jpg",
     "docs/images/input-control/Checkbox.png": "images/input-control/Checkbox.png",
+    "docs/images/input-control/Radio-Case.jpg": "images/input-control/Radio-Case.jpg",
+    "docs/images/input-control/Radio-Specs.jpg": "images/input-control/Radio-Specs.jpg",
+    "docs/images/input-control/Radio.jpg": "images/input-control/Radio.jpg",
     "docs/images/input-control/Radio.png": "images/input-control/Radio.png",
+    "docs/images/input-control/Select-all-Case.jpg": "images/input-control/Select-all-Case.jpg",
+    "docs/images/input-control/Specs.jpg": "images/input-control/Specs.jpg",
+    "docs/images/input-control/State.jpg": "images/input-control/State.jpg",
+    "docs/images/input-control/Switch-Case.jpg": "images/input-control/Switch-Case.jpg",
+    "docs/images/input-control/Switch-Specs.jpg": "images/input-control/Switch-Specs.jpg",
+    "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
     "docs/images/input-control/Switch.png": "images/input-control/Switch.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
