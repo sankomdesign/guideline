@@ -8,6 +8,7 @@ Fonts
 ![Roboto-SanSerif](images/visual-font/Fontthai-Body.png)
 ![Roboto-SanSerif](images/visual-font/Fontthai-interface.png)
 
+
 ## Type scale
 
 | Scale       | weight      | size        |
@@ -40,5 +41,5 @@ Fonts
 #### "เบาที่สุดจนเกือบกระซิบ, ดังที่สุดจนเกือบตะโกน"
 ทุกๆอย่างที่ใส่ลงไปบน user interface นั้นถือเป็น visual noise ทั้งหมด ดังนั้นควรปรับขนาดให้เหมาะสมกับแต่ละสภาพแวดล้อมที่ element นั้นๆไปอาศัยอยู่
 
-![inputbox](images/visual-font/06.jpg)
-![listofitem](images/visual-font/07.jpg)
+![Roboto-SanSerif](images/visual-font/Fontthai-ToneOfVoice.png)
+![Roboto-SanSerif](images/visual-font/Fontthai-ToneOfVoice-List.png)
