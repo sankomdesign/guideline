@@ -1,21 +1,12 @@
 Fonts
 ==========
+ชุดอักษรที่เลือกมาใช้ไม่เพียงต้องอ่านง่าย รูปแบบของชุดอักษรต้องสะท้อนถึงภาพลักษณ์ของธุรกิจนั้นๆด้วย ชุดอักษรแบบ San serif (ตัวมีหัว) จึงเหมาะสมกับการเลือกมาทำ user interface 
 
-ชุดอักษรที่เลือกมาใช้ไม่เพียงแค่อ่านง่ายแต่ต้องสะท้อนถึงภาพลักษณ์ของธุรกิจนั้นๆด้วย แบ่งได้เป็น 3 ประเภท
-
-##### 1. Serif
-##### 2. San serif
-##### 3. Monospace (Optional)
-
----
-
-![Roboto-SanSerif](images/visual-font/01.jpg)
-[Download Roboto](https://fonts.google.com/specimen/Roboto)
-
----
-
-![Sarabun-SanSerif](images/visual-font/02.jpg)
 [Download Sarabun](https://fonts.google.com/specimen/Sarabun)
+![Roboto-SanSerif](images/visual-font/Fontthai-Fontselection.png)
+![Roboto-SanSerif](images/visual-font/Fontthai-title.png)
+![Roboto-SanSerif](images/visual-font/Fontthai-Body.png)
+![Roboto-SanSerif](images/visual-font/Fontthai-interface.png)
 
 ## Type scale
 
@@ -41,8 +32,9 @@ Fonts
 ![baseline](images/visual-font/04.jpg)
 
 ##### 2. Vertically Centered
-![vertically](images/visual-font/05.jpg)
 โดยไม่สนใจเส้นฐานของตัวอักษร แต่สนใจว่าจัดกลางในแนวตั้งรึเปล่า
+![vertically](images/visual-font/05.jpg)
+
 
 ## Tone of voice
 #### "เบาที่สุดจนเกือบกระซิบ, ดังที่สุดจนเกือบตะโกน"
