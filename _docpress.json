@@ -49,9 +49,9 @@
             "id": "contrast"
           },
           {
-            "title": "Repition",
+            "title": "Repetition",
             "depth": 2,
-            "id": "repition"
+            "id": "repetition"
           },
           {
             "title": "Alignment",
@@ -220,9 +220,9 @@
           "id": "contrast"
         },
         {
-          "title": "Repition",
+          "title": "Repetition",
           "depth": 2,
-          "id": "repition"
+          "id": "repetition"
         },
         {
           "title": "Alignment",
@@ -325,6 +325,7 @@
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
     "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
+    "docs/images/design-principle/text-contrast.png": "images/design-principle/text-contrast.png",
     "docs/images/input-control/Checkbox.png": "images/input-control/Checkbox.png",
     "docs/images/input-control/Radio.png": "images/input-control/Radio.png",
     "docs/images/input-control/Switch.png": "images/input-control/Switch.png",
