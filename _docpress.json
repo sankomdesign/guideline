@@ -103,7 +103,34 @@
               {
                 "title": "Button",
                 "depth": 2,
-                "id": "button"
+                "id": "button",
+                "headings": [
+                  {
+                    "title": "Text Label",
+                    "depth": 3,
+                    "id": "text-label"
+                  },
+                  {
+                    "title": "Text Button",
+                    "depth": 3,
+                    "id": "text-button"
+                  },
+                  {
+                    "title": "Outline Button",
+                    "depth": 3,
+                    "id": "outline-button"
+                  },
+                  {
+                    "title": "Contained Button",
+                    "depth": 3,
+                    "id": "contained-button"
+                  },
+                  {
+                    "title": "Toggle Button",
+                    "depth": 3,
+                    "id": "toggle-button"
+                  }
+                ]
               },
               {
                 "title": "Selection Control",
@@ -285,7 +312,34 @@
         {
           "title": "Button",
           "depth": 2,
-          "id": "button"
+          "id": "button",
+          "headings": [
+            {
+              "title": "Text Label",
+              "depth": 3,
+              "id": "text-label"
+            },
+            {
+              "title": "Text Button",
+              "depth": 3,
+              "id": "text-button"
+            },
+            {
+              "title": "Outline Button",
+              "depth": 3,
+              "id": "outline-button"
+            },
+            {
+              "title": "Contained Button",
+              "depth": 3,
+              "id": "contained-button"
+            },
+            {
+              "title": "Toggle Button",
+              "depth": 3,
+              "id": "toggle-button"
+            }
+          ]
         },
         {
           "title": "Selection Control",
@@ -359,22 +413,25 @@
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
     "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
+    "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
+    "docs/images/button/Icon+Primary-Button-Case.jpg": "images/button/Icon+Primary-Button-Case.jpg",
+    "docs/images/button/Outline-Button.jpg": "images/button/Outline-Button.jpg",
+    "docs/images/button/Text-Button.jpg": "images/button/Text-Button.jpg",
+    "docs/images/button/Text-Label-Case.jpg": "images/button/Text-Label-Case.jpg",
+    "docs/images/button/Toggle-Button.jpg": "images/button/Toggle-Button.jpg",
     "docs/images/design-principle/text-contrast.png": "images/design-principle/text-contrast.png",
     "docs/images/input-control/Checkbox-Case.jpg": "images/input-control/Checkbox-Case.jpg",
     "docs/images/input-control/Checkbox-Specs.jpg": "images/input-control/Checkbox-Specs.jpg",
     "docs/images/input-control/Checkbox.jpg": "images/input-control/Checkbox.jpg",
-    "docs/images/input-control/Checkbox.png": "images/input-control/Checkbox.png",
     "docs/images/input-control/Radio-Case.jpg": "images/input-control/Radio-Case.jpg",
     "docs/images/input-control/Radio-Specs.jpg": "images/input-control/Radio-Specs.jpg",
     "docs/images/input-control/Radio.jpg": "images/input-control/Radio.jpg",
-    "docs/images/input-control/Radio.png": "images/input-control/Radio.png",
     "docs/images/input-control/Select-all-Case.jpg": "images/input-control/Select-all-Case.jpg",
     "docs/images/input-control/Specs.jpg": "images/input-control/Specs.jpg",
     "docs/images/input-control/State.jpg": "images/input-control/State.jpg",
     "docs/images/input-control/Switch-Case.jpg": "images/input-control/Switch-Case.jpg",
     "docs/images/input-control/Switch-Specs.jpg": "images/input-control/Switch-Specs.jpg",
     "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
-    "docs/images/input-control/Switch.png": "images/input-control/Switch.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
     "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
