@@ -170,6 +170,11 @@
                 "id": "modals",
                 "headings": [
                   {
+                    "title": "Anatomy",
+                    "depth": 3,
+                    "id": "anatomy"
+                  },
+                  {
                     "title": "Simple Modal",
                     "depth": 3,
                     "id": "simple-modal"
@@ -183,6 +188,11 @@
                     "title": "Confirmation Modal",
                     "depth": 3,
                     "id": "confirmation-modal"
+                  },
+                  {
+                    "title": "Speces",
+                    "depth": 3,
+                    "id": "speces"
                   }
                 ]
               }
@@ -411,6 +421,11 @@
           "id": "modals",
           "headings": [
             {
+              "title": "Anatomy",
+              "depth": 3,
+              "id": "anatomy"
+            },
+            {
               "title": "Simple Modal",
               "depth": 3,
               "id": "simple-modal"
@@ -424,6 +439,11 @@
               "title": "Confirmation Modal",
               "depth": 3,
               "id": "confirmation-modal"
+            },
+            {
+              "title": "Speces",
+              "depth": 3,
+              "id": "speces"
             }
           ]
         }
@@ -502,6 +522,9 @@
     "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
     "docs/images/modals/Alert-Modal.jpg": "images/modals/Alert-Modal.jpg",
     "docs/images/modals/Confirmation-Modal.jpg": "images/modals/Confirmation-Modal.jpg",
+    "docs/images/modals/Modal-Anatomy.jpg": "images/modals/Modal-Anatomy.jpg",
+    "docs/images/modals/Modal-Desktop-Spec.jpg": "images/modals/Modal-Desktop-Spec.jpg",
+    "docs/images/modals/Modal-Mobile-Spec.jpg": "images/modals/Modal-Mobile-Spec.jpg",
     "docs/images/modals/Simple-Modal.jpg": "images/modals/Simple-Modal.jpg",
     "docs/images/visual-color/01.jpg": "images/visual-color/01.jpg",
     "docs/images/visual-color/02.jpg": "images/visual-color/02.jpg",
