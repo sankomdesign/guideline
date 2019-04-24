@@ -195,6 +195,23 @@
                     "id": "speces"
                   }
                 ]
+              },
+              {
+                "title": "Snack Bar",
+                "depth": 2,
+                "id": "snack-bar",
+                "headings": [
+                  {
+                    "title": "Anatomy",
+                    "depth": 3,
+                    "id": "anatomy"
+                  },
+                  {
+                    "title": "Speces",
+                    "depth": 3,
+                    "id": "speces"
+                  }
+                ]
               }
             ]
           },
@@ -446,6 +463,23 @@
               "id": "speces"
             }
           ]
+        },
+        {
+          "title": "Snack Bar",
+          "depth": 2,
+          "id": "snack-bar",
+          "headings": [
+            {
+              "title": "Anatomy",
+              "depth": 3,
+              "id": "anatomy"
+            },
+            {
+              "title": "Speces",
+              "depth": 3,
+              "id": "speces"
+            }
+          ]
         }
       ]
     },
@@ -526,6 +560,13 @@
     "docs/images/modals/Modal-Desktop-Spec.jpg": "images/modals/Modal-Desktop-Spec.jpg",
     "docs/images/modals/Modal-Mobile-Spec.jpg": "images/modals/Modal-Mobile-Spec.jpg",
     "docs/images/modals/Simple-Modal.jpg": "images/modals/Simple-Modal.jpg",
+    "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
+    "docs/images/snack-bar/Snack-Bar-Button-1.jpg": "images/snack-bar/Snack-Bar-Button-1.jpg",
+    "docs/images/snack-bar/Snack-Bar-Button-2.jpg": "images/snack-bar/Snack-Bar-Button-2.jpg",
+    "docs/images/snack-bar/Snack-Bar-Button-3.jpg": "images/snack-bar/Snack-Bar-Button-3.jpg",
+    "docs/images/snack-bar/Snack-Bar-Delay.jpg": "images/snack-bar/Snack-Bar-Delay.jpg",
+    "docs/images/snack-bar/Snack-Bar-Spec.jpg": "images/snack-bar/Snack-Bar-Spec.jpg",
+    "docs/images/snack-bar/Snack-Bar-Text-Label-1.jpg": "images/snack-bar/Snack-Bar-Text-Label-1.jpg",
     "docs/images/visual-color/01.jpg": "images/visual-color/01.jpg",
     "docs/images/visual-color/02.jpg": "images/visual-color/02.jpg",
     "docs/images/visual-color/03.jpg": "images/visual-color/03.jpg",
