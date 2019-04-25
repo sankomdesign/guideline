@@ -150,3 +150,20 @@ Snack Bar ไม่ควรมีมากกว่า 1 Action เนื่อ
 
 ### Speces
 ![Test](images/snack-bar/Snack-Bar-Spec.jpg)
+
+## Banner
+เป็นสิ่งที่ไว้สำหรับแจ้งข้อมูลบางอย่างที่มีความสำคัญปานกลางแก่ผู้ใช้งาน ใช้เพื่อขัดจังหวะการทำงานของผู้ใช้งาน
+![Test](images/banner/Banner-Anatomy.jpg)
+1. Support illustration (optional)
+2. Container
+3. Text
+4. Button
+
+Banner สามารถใช้เพียงปุ่มเดียวได้ ในกรณีที่จำเป็นต้องการใช้ผู้ใช้ทำตามเงื่อนไข
+![Test](images/banner/Banner-Small-1.jpg)
+
+ในกรณีที่ Container มีพื้นที่จำกัด และมีปุ่ม 2 ปุ่ม สามารถขึ้นบรรทัดใหม่สำหรับปุ่มได้
+![Test](images/banner/Banner-Small-2.jpg)
+
+Banner สามารถ Responsive ตามขนาดหน้าจอได้
+![Test](images/banner/Banner-Large-1.jpg)
