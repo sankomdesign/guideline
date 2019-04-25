@@ -212,6 +212,11 @@
                     "id": "speces"
                   }
                 ]
+              },
+              {
+                "title": "Banner",
+                "depth": 2,
+                "id": "banner"
               }
             ]
           },
@@ -480,6 +485,11 @@
               "id": "speces"
             }
           ]
+        },
+        {
+          "title": "Banner",
+          "depth": 2,
+          "id": "banner"
         }
       ]
     },
@@ -535,6 +545,10 @@
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
     "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
+    "docs/images/banner/Banner-Anatomy.jpg": "images/banner/Banner-Anatomy.jpg",
+    "docs/images/banner/Banner-Large-1.jpg": "images/banner/Banner-Large-1.jpg",
+    "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
+    "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
     "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
     "docs/images/button/Icon+Primary-Button-Case.jpg": "images/button/Icon+Primary-Button-Case.jpg",
     "docs/images/button/Outline-Button.jpg": "images/button/Outline-Button.jpg",
