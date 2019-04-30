@@ -4,13 +4,13 @@ Element
 Element. คือส่วนที่ประกอบขึ้นเป็น User interface ผู้ใช้งานมีความคุ้นเคยกับ User interface จากประสบการณ์ที่ผ่านมาของพวกเขา โปรดเลือกใช้งานด้วยความระมัดระวัง โดยคำนึงถึงความสม่ำเสมอและสามารถคาดเดาได้ เพื่อช่วยให้เป้าหมายของผู้ใช้งานนั้นเสร็จแบบมีประสิทธิภาพและได้รับความพึงพอใจ
 
 ##### 1. Input controls
-- Button, Data field, List-Box, Dropdown list
+- Button, Data field, List-Box
 
 ##### 2. Selection controls
-- Toggles, Radio-button, Checkbox
+- Toggles, Radio-button, Checkbox, Dropdown list
   
 ##### 3. Navigational components
-- Breadcrumb, Slider, Search, Pagination, tag
+- Breadcrumb, Slider, Search, Pagination, Tag, Navigation Bar
 
 ##### 4. Informational components
 - Tool-tip, icon, Progress bar, Notification, Message Box, Modal
@@ -22,6 +22,26 @@ Element. คือส่วนที่ประกอบขึ้นเป็�
 ## Atomic design concept
 ...
 
+## Input Box
+ใช้สำหรับรับข้อมูลจากผู้ใช้งาน เพื่อนำข้อมูลไปเก็บหรือประมวลผลต่อ ใช้สำหรับรับข้อมูลเป็น Text หรือ ตัวเลข
+
+### Anatomy
+![Test](images/text-box/Text-Box-Anatomy.jpg)
+1. Label
+2. Leading Icon (optional)
+3. Helper Text (optional)
+4. Tailing Icon (optional)
+5. Container 
+
+### State
+![Test](images/text-box/Text-Box-State.jpg)
+
+### Speces
+![Test](images/text-box/Text-Box-Spec.jpg)
+
+### Required text indicator
+ถ้าส่วนใหญ่จำเป็นต้องกรอก ให้ระบุช่องกรอกเป็น (Optional) แทน แล้วเอา * ออกทั้งหมด
+![Test](images/text-box/Text-Box-Indicator.jpg)
 
 
 ## Button
