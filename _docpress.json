@@ -266,6 +266,11 @@
                         "title": "Branding color",
                         "depth": 2,
                         "id": "branding-color"
+                      },
+                      {
+                        "title": "Themes",
+                        "depth": 2,
+                        "id": "themes"
                       }
                     ]
                   },
@@ -557,6 +562,11 @@
           "title": "Branding color",
           "depth": 2,
           "id": "branding-color"
+        },
+        {
+          "title": "Themes",
+          "depth": 2,
+          "id": "themes"
         }
       ]
     },
@@ -642,6 +652,7 @@
     "docs/images/visual-color/01.jpg": "images/visual-color/01.jpg",
     "docs/images/visual-color/02.jpg": "images/visual-color/02.jpg",
     "docs/images/visual-color/03.jpg": "images/visual-color/03.jpg",
+    "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
     "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
