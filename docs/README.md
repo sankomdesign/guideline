@@ -16,7 +16,7 @@
   
 - Visual
   - [Colors](visual-color.md)
-  - Layout
+  - [Layout](visual-layout.md)
   - [Fonts](visual-font.md)
   - Icon
 
