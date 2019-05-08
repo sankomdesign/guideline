@@ -14,9 +14,10 @@
   - Plugin
   - New Account
   
-
 - Visual
   - [Colors](visual-color.md)
   - Layout
   - [Fonts](visual-font.md)
   - Icon
+
+- [Contribute](contribute.md)
