@@ -72,19 +72,7 @@
             "title": "Navigation",
             "source": "docs/guideline-navigation.md",
             "url": "guideline-navigation.html",
-            "slug": "guideline-navigation",
-            "headings": [
-              {
-                "title": "Contrast",
-                "depth": 2,
-                "id": "contrast"
-              },
-              {
-                "title": "Repitition",
-                "depth": 2,
-                "id": "repitition"
-              }
-            ]
+            "slug": "guideline-navigation"
           },
           {
             "title": "Panel"
@@ -411,19 +399,7 @@
       "source": "docs/guideline-navigation.md",
       "title": "Navigation - Sankom Design",
       "pageTitle": "Navigation",
-      "slug": "guideline-navigation",
-      "headings": [
-        {
-          "title": "Contrast",
-          "depth": 2,
-          "id": "contrast"
-        },
-        {
-          "title": "Repitition",
-          "depth": 2,
-          "id": "repitition"
-        }
-      ]
+      "slug": "guideline-navigation"
     },
     "guideline-element.html": {
       "source": "docs/guideline-element.md",
@@ -705,6 +681,11 @@
     "docs/images/modals/Modal-Desktop-Spec.jpg": "images/modals/Modal-Desktop-Spec.jpg",
     "docs/images/modals/Modal-Mobile-Spec.jpg": "images/modals/Modal-Mobile-Spec.jpg",
     "docs/images/modals/Simple-Modal.jpg": "images/modals/Simple-Modal.jpg",
+    "docs/images/navigation/pms-01.jpg": "images/navigation/pms-01.jpg",
+    "docs/images/navigation/pms-02.jpg": "images/navigation/pms-02.jpg",
+    "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
+    "docs/images/navigation/pms-04.jpg": "images/navigation/pms-04.jpg",
+    "docs/images/navigation/pms-05.jpg": "images/navigation/pms-05.jpg",
     "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-1.jpg": "images/snack-bar/Snack-Bar-Button-1.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-2.jpg": "images/snack-bar/Snack-Bar-Button-2.jpg",
@@ -712,14 +693,15 @@
     "docs/images/snack-bar/Snack-Bar-Delay.jpg": "images/snack-bar/Snack-Bar-Delay.jpg",
     "docs/images/snack-bar/Snack-Bar-Spec.jpg": "images/snack-bar/Snack-Bar-Spec.jpg",
     "docs/images/snack-bar/Snack-Bar-Text-Label-1.jpg": "images/snack-bar/Snack-Bar-Text-Label-1.jpg",
-    "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
     "docs/images/text-box/Text-Box-Indicator.jpg": "images/text-box/Text-Box-Indicator.jpg",
+    "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
     "docs/images/text-box/Text-Box-Spec.jpg": "images/text-box/Text-Box-Spec.jpg",
     "docs/images/text-box/Text-Box-State.jpg": "images/text-box/Text-Box-State.jpg",
     "docs/images/visual-color/01.jpg": "images/visual-color/01.jpg",
     "docs/images/visual-color/02.jpg": "images/visual-color/02.jpg",
     "docs/images/visual-color/03.jpg": "images/visual-color/03.jpg",
     "docs/images/visual-color/04.jpg": "images/visual-color/04.jpg",
+    "docs/images/visual-color/05.jpg": "images/visual-color/05.jpg",
     "docs/images/visual-color/color-LightTheme01.png": "images/visual-color/color-LightTheme01.png",
     "docs/images/visual-color/color-LightTheme02.png": "images/visual-color/color-LightTheme02.png",
     "docs/images/visual-color/color-LightTheme03.png": "images/visual-color/color-LightTheme03.png",
