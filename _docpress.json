@@ -279,6 +279,11 @@
                 "title": "Column",
                 "depth": 3,
                 "id": "column"
+              },
+              {
+                "title": "Breakpoints",
+                "depth": 3,
+                "id": "breakpoints"
               }
             ]
           },
@@ -607,6 +612,11 @@
           "title": "Column",
           "depth": 3,
           "id": "column"
+        },
+        {
+          "title": "Breakpoints",
+          "depth": 3,
+          "id": "breakpoints"
         }
       ]
     },
@@ -681,19 +691,19 @@
     "docs/extra.css": "extra.css",
     "docs/favicon.ico": "favicon.ico",
     "docs/images/logo-sansiri.jpg": "images/logo-sansiri.jpg",
-    "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
+    "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
+    "docs/images/banner/Banner-Anatomy.jpg": "images/banner/Banner-Anatomy.jpg",
+    "docs/images/banner/Banner-Large-1.jpg": "images/banner/Banner-Large-1.jpg",
+    "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
+    "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
     "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
     "docs/images/button/Icon+Primary-Button-Case.jpg": "images/button/Icon+Primary-Button-Case.jpg",
     "docs/images/button/Outline-Button.jpg": "images/button/Outline-Button.jpg",
     "docs/images/button/Text-Button.jpg": "images/button/Text-Button.jpg",
     "docs/images/button/Text-Label-Case.jpg": "images/button/Text-Label-Case.jpg",
     "docs/images/button/Toggle-Button.jpg": "images/button/Toggle-Button.jpg",
-    "docs/images/banner/Banner-Anatomy.jpg": "images/banner/Banner-Anatomy.jpg",
-    "docs/images/banner/Banner-Large-1.jpg": "images/banner/Banner-Large-1.jpg",
-    "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
-    "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
     "docs/images/contribute/folder.png": "images/contribute/folder.png",
     "docs/images/contribute/run_server.png": "images/contribute/run_server.png",
     "docs/images/design-principle/text-contrast.png": "images/design-principle/text-contrast.png",
@@ -703,8 +713,8 @@
     "docs/images/input-control/Checkbox-Case.jpg": "images/input-control/Checkbox-Case.jpg",
     "docs/images/input-control/Checkbox-Specs.jpg": "images/input-control/Checkbox-Specs.jpg",
     "docs/images/input-control/Checkbox.jpg": "images/input-control/Checkbox.jpg",
-    "docs/images/input-control/Radio-Specs.jpg": "images/input-control/Radio-Specs.jpg",
     "docs/images/input-control/Radio-Case.jpg": "images/input-control/Radio-Case.jpg",
+    "docs/images/input-control/Radio-Specs.jpg": "images/input-control/Radio-Specs.jpg",
     "docs/images/input-control/Radio.jpg": "images/input-control/Radio.jpg",
     "docs/images/input-control/Select-all-Case.jpg": "images/input-control/Select-all-Case.jpg",
     "docs/images/input-control/Specs.jpg": "images/input-control/Specs.jpg",
@@ -712,9 +722,9 @@
     "docs/images/input-control/Switch-Case.jpg": "images/input-control/Switch-Case.jpg",
     "docs/images/input-control/Switch-Specs.jpg": "images/input-control/Switch-Specs.jpg",
     "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
+    "docs/images/modals/Alert-Modal.jpg": "images/modals/Alert-Modal.jpg",
     "docs/images/modals/Confirmation-Modal.jpg": "images/modals/Confirmation-Modal.jpg",
     "docs/images/modals/Modal-Anatomy.jpg": "images/modals/Modal-Anatomy.jpg",
-    "docs/images/modals/Alert-Modal.jpg": "images/modals/Alert-Modal.jpg",
     "docs/images/modals/Modal-Desktop-Spec.jpg": "images/modals/Modal-Desktop-Spec.jpg",
     "docs/images/modals/Modal-Mobile-Spec.jpg": "images/modals/Modal-Mobile-Spec.jpg",
     "docs/images/modals/Simple-Modal.jpg": "images/modals/Simple-Modal.jpg",
@@ -726,8 +736,8 @@
     "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-1.jpg": "images/snack-bar/Snack-Bar-Button-1.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-2.jpg": "images/snack-bar/Snack-Bar-Button-2.jpg",
-    "docs/images/snack-bar/Snack-Bar-Delay.jpg": "images/snack-bar/Snack-Bar-Delay.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-3.jpg": "images/snack-bar/Snack-Bar-Button-3.jpg",
+    "docs/images/snack-bar/Snack-Bar-Delay.jpg": "images/snack-bar/Snack-Bar-Delay.jpg",
     "docs/images/snack-bar/Snack-Bar-Spec.jpg": "images/snack-bar/Snack-Bar-Spec.jpg",
     "docs/images/snack-bar/Snack-Bar-Text-Label-1.jpg": "images/snack-bar/Snack-Bar-Text-Label-1.jpg",
     "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
@@ -739,13 +749,12 @@
     "docs/images/visual-color/03.jpg": "images/visual-color/03.jpg",
     "docs/images/visual-color/04.jpg": "images/visual-color/04.jpg",
     "docs/images/visual-color/05.jpg": "images/visual-color/05.jpg",
-    "docs/images/visual-color/color-LightTheme02.png": "images/visual-color/color-LightTheme02.png",
     "docs/images/visual-color/color-LightTheme01.png": "images/visual-color/color-LightTheme01.png",
+    "docs/images/visual-color/color-LightTheme02.png": "images/visual-color/color-LightTheme02.png",
     "docs/images/visual-color/color-LightTheme03.png": "images/visual-color/color-LightTheme03.png",
     "docs/images/visual-color/color-LightTheme04.jpg": "images/visual-color/color-LightTheme04.jpg",
     "docs/images/visual-color/color-LightTheme05.jpg": "images/visual-color/color-LightTheme05.jpg",
     "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
-    "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
     "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
@@ -756,7 +765,8 @@
     "docs/images/visual-font/Fontthai-Fontselection.png": "images/visual-font/Fontthai-Fontselection.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice-List.png": "images/visual-font/Fontthai-ToneOfVoice-List.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice.png": "images/visual-font/Fontthai-ToneOfVoice.png",
+    "docs/images/visual-font/Fontthai-interface.png": "images/visual-font/Fontthai-interface.png",
     "docs/images/visual-font/Fontthai-title.png": "images/visual-font/Fontthai-title.png",
-    "docs/images/visual-font/Fontthai-interface.png": "images/visual-font/Fontthai-interface.png"
+    "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png"
   }
 }
