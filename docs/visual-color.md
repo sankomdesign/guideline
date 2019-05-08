@@ -20,8 +20,13 @@ Colors
 ![Branding](images/visual-color/03.jpg)
 ![Branding](images/visual-color/04.jpg)
 
+
 การตัดสินใจใช้สีพื้นหลังของ Ui element ต่างๆให้คำนึงถึง contrast และ legibility เป็นหลัก
 ตัวอย่างด้านบนทั้งหมดสามารถใช้งานได้มี contrast ที่สูงและอ่านได้ง่าย เว้น ui element บางตัวที่มี contrast ต่ำเพื่อสือสารให้รับรู้ว่าเคยกดได้แต่ยังไม่ใช่ตอนนี้
+
+![Branding](images/visual-color/05.jpg)
+การตัดสินใจใช้สีต่างๆเพื่อสร้าง Ui element ให้คำนึงถึง interaction เป็นอันดับแรกโดยเก็บสี Primary ไว้ให้กับ element ที่เกี่ยวข้องกับการทำ Primary task เพื่อการสื่อสารที่ชัดเจนว่าในขณะๆ แอฟลิเคชั่นต้องการให้ทำอะไร
+
 
 ## Themes
 ![Branding](images/visual-color/color-theme.png)
