@@ -265,7 +265,17 @@
             ]
           },
           {
-            "title": "Layout"
+            "title": "Layout",
+            "source": "docs/visual-layout.md",
+            "url": "visual-layout.html",
+            "slug": "visual-layout",
+            "headings": [
+              {
+                "title": "Column",
+                "depth": 3,
+                "id": "column"
+              }
+            ]
           },
           {
             "title": "Fonts",
@@ -577,6 +587,19 @@
         }
       ]
     },
+    "visual-layout.html": {
+      "source": "docs/visual-layout.md",
+      "title": "Layout - Sankom Design",
+      "pageTitle": "Layout",
+      "slug": "visual-layout",
+      "headings": [
+        {
+          "title": "Column",
+          "depth": 3,
+          "id": "column"
+        }
+      ]
+    },
     "visual-font.html": {
       "source": "docs/visual-font.md",
       "title": "Fonts - Sankom Design",
@@ -641,6 +664,7 @@
     "docs/guideline-navigation.md": "guideline-navigation.html",
     "docs/guideline-element.md": "guideline-element.html",
     "docs/visual-color.md": "visual-color.html",
+    "docs/visual-layout.md": "visual-layout.html",
     "docs/visual-font.md": "visual-font.html",
     "docs/contribute.md": "contribute.html",
     "docs/docpress.json": "docpress.json",
@@ -663,6 +687,9 @@
     "docs/images/contribute/folder.png": "images/contribute/folder.png",
     "docs/images/contribute/run_server.png": "images/contribute/run_server.png",
     "docs/images/design-principle/text-contrast.png": "images/design-principle/text-contrast.png",
+    "docs/images/getting-start/gs01.jpg": "images/getting-start/gs01.jpg",
+    "docs/images/getting-start/gs02.jpg": "images/getting-start/gs02.jpg",
+    "docs/images/getting-start/gs03.jpg": "images/getting-start/gs03.jpg",
     "docs/images/input-control/Checkbox-Case.jpg": "images/input-control/Checkbox-Case.jpg",
     "docs/images/input-control/Checkbox-Specs.jpg": "images/input-control/Checkbox-Specs.jpg",
     "docs/images/input-control/Checkbox.jpg": "images/input-control/Checkbox.jpg",
@@ -693,8 +720,8 @@
     "docs/images/snack-bar/Snack-Bar-Delay.jpg": "images/snack-bar/Snack-Bar-Delay.jpg",
     "docs/images/snack-bar/Snack-Bar-Spec.jpg": "images/snack-bar/Snack-Bar-Spec.jpg",
     "docs/images/snack-bar/Snack-Bar-Text-Label-1.jpg": "images/snack-bar/Snack-Bar-Text-Label-1.jpg",
-    "docs/images/text-box/Text-Box-Indicator.jpg": "images/text-box/Text-Box-Indicator.jpg",
     "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
+    "docs/images/text-box/Text-Box-Indicator.jpg": "images/text-box/Text-Box-Indicator.jpg",
     "docs/images/text-box/Text-Box-Spec.jpg": "images/text-box/Text-Box-Spec.jpg",
     "docs/images/text-box/Text-Box-State.jpg": "images/text-box/Text-Box-State.jpg",
     "docs/images/visual-color/01.jpg": "images/visual-color/01.jpg",
@@ -719,6 +746,7 @@
     "docs/images/visual-font/Fontthai-ToneOfVoice-List.png": "images/visual-font/Fontthai-ToneOfVoice-List.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice.png": "images/visual-font/Fontthai-ToneOfVoice.png",
     "docs/images/visual-font/Fontthai-interface.png": "images/visual-font/Fontthai-interface.png",
-    "docs/images/visual-font/Fontthai-title.png": "images/visual-font/Fontthai-title.png"
+    "docs/images/visual-font/Fontthai-title.png": "images/visual-font/Fontthai-title.png",
+    "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png"
   }
 }
