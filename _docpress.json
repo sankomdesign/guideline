@@ -284,6 +284,11 @@
                 "title": "Breakpoints",
                 "depth": 3,
                 "id": "breakpoints"
+              },
+              {
+                "title": "Grid behaviors",
+                "depth": 3,
+                "id": "grid-behaviors"
               }
             ]
           },
@@ -293,6 +298,21 @@
             "url": "visual-font.html",
             "slug": "visual-font",
             "headings": [
+              {
+                "title": "Thai",
+                "depth": 3,
+                "id": "thai"
+              },
+              {
+                "title": "English",
+                "depth": 3,
+                "id": "english"
+              },
+              {
+                "title": "Multiple Language",
+                "depth": 2,
+                "id": "multiple-language"
+              },
               {
                 "title": "Type scale",
                 "depth": 2,
@@ -617,6 +637,11 @@
           "title": "Breakpoints",
           "depth": 3,
           "id": "breakpoints"
+        },
+        {
+          "title": "Grid behaviors",
+          "depth": 3,
+          "id": "grid-behaviors"
         }
       ]
     },
@@ -626,6 +651,21 @@
       "pageTitle": "Fonts",
       "slug": "visual-font",
       "headings": [
+        {
+          "title": "Thai",
+          "depth": 3,
+          "id": "thai"
+        },
+        {
+          "title": "English",
+          "depth": 3,
+          "id": "english"
+        },
+        {
+          "title": "Multiple Language",
+          "depth": 2,
+          "id": "multiple-language"
+        },
         {
           "title": "Type scale",
           "depth": 2,
@@ -761,12 +801,23 @@
     "docs/images/visual-font/05.jpg": "images/visual-font/05.jpg",
     "docs/images/visual-font/06.jpg": "images/visual-font/06.jpg",
     "docs/images/visual-font/07.jpg": "images/visual-font/07.jpg",
+    "docs/images/visual-font/Font thai - ToneOfVoice.png": "images/visual-font/Font thai - ToneOfVoice.png",
+    "docs/images/visual-font/Fonteng-Body.png": "images/visual-font/Fonteng-Body.png",
+    "docs/images/visual-font/Fonteng-fontSelection.png": "images/visual-font/Fonteng-fontSelection.png",
+    "docs/images/visual-font/Fonteng-interface.png": "images/visual-font/Fonteng-interface.png",
+    "docs/images/visual-font/Fonteng-title.png": "images/visual-font/Fonteng-title.png",
+    "docs/images/visual-font/Fonteng-toneOfVoice-List.png": "images/visual-font/Fonteng-toneOfVoice-List.png",
+    "docs/images/visual-font/Fonteng-toneOfVoice.png": "images/visual-font/Fonteng-toneOfVoice.png",
     "docs/images/visual-font/Fontthai-Body.png": "images/visual-font/Fontthai-Body.png",
     "docs/images/visual-font/Fontthai-Fontselection.png": "images/visual-font/Fontthai-Fontselection.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice-List.png": "images/visual-font/Fontthai-ToneOfVoice-List.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice.png": "images/visual-font/Fontthai-ToneOfVoice.png",
     "docs/images/visual-font/Fontthai-interface.png": "images/visual-font/Fontthai-interface.png",
     "docs/images/visual-font/Fontthai-title.png": "images/visual-font/Fontthai-title.png",
-    "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png"
+    "docs/images/visual-font/MultiLanguage-dont.png": "images/visual-font/MultiLanguage-dont.png",
+    "docs/images/visual-layout/Desktop.png": "images/visual-layout/Desktop.png",
+    "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png",
+    "docs/images/visual-layout/Mobile.png": "images/visual-layout/Mobile.png",
+    "docs/images/visual-layout/Tablet.png": "images/visual-layout/Tablet.png"
   }
 }
