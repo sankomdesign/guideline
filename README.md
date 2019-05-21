@@ -14,6 +14,7 @@
 หากต้องการเข้ามาช่วยกันปรับแก้เอกสารฉบับนี้สามารถส่ง [Pull Request](https://help.github.com/en/articles/about-pull-requests) มาได้ที่ [Github](https://github.com/sankomdesign/guideline)
 
 เว็บไซต์ [https://sankomdesign.github.io/guideline](https://sankomdesign.github.io/guideline/)
+Figma [https://www.figma.com/file/WgtfkFvsOHjqGVRBEBa5nocf/Design-Guideline?node-id=49%3A2]
 
 มาเริ่มต้นจากความเข้าใจพื้นฐานกัน [Getting Start](docs/getting-start.md)
 

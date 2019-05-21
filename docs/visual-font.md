@@ -2,11 +2,31 @@ Fonts
 ==========
 ชุดอักษรที่เลือกมาใช้ไม่เพียงต้องอ่านง่าย รูปแบบของชุดอักษรต้องสะท้อนถึงภาพลักษณ์ของธุรกิจนั้นๆด้วย ชุดอักษรแบบ San serif (ตัวมีหัว) จึงเหมาะสมกับการเลือกมาทำ user interface 
 
+### Thai
+
 [Download Sarabun](https://fonts.google.com/specimen/Sarabun)
 ![Roboto-SanSerif](images/visual-font/Fontthai-Fontselection.png)
 ![Roboto-SanSerif](images/visual-font/Fontthai-title.png)
 ![Roboto-SanSerif](images/visual-font/Fontthai-Body.png)
+![Roboto-SanSerif](images/visual-font/Fontthai-ToneOfVoice.png)
 ![Roboto-SanSerif](images/visual-font/Fontthai-interface.png)
+
+### English
+[Download Roboto](https://fonts.google.com/specimen/Roboto)
+![Roboto-SanSerif](images/visual-font/Fonteng-fontSelection.png)
+![Roboto-SanSerif](images/visual-font/Fonteng-title.png)
+![Roboto-SanSerif](images/visual-font/Fonteng-Body.png)
+![Roboto-SanSerif](images/visual-font/Fonteng-toneOfVoice-List.png)
+![Roboto-SanSerif](images/visual-font/Fonteng-toneOfVoice.png)
+![Roboto-SanSerif](images/visual-font/Fonteng-interface.png)
+
+## Multiple Language
+โปรดหลีกเลี่ยงการออกแบบแอฟลิเคชั่นที่มีหลายภาษา หากต้องการให้มีหลายภาษาแนะนำให้แสดงที่ละภาษาและมีปุ่มเปลี่ยนภาษา
+
+เพราะภาษาอะไรก็ตามที่อยู่ด้านหลัง " / " มี Discoverable ลดลง
+![Roboto-SanSerif](images/visual-font/MultiLanguage-dont.png)
+
+
 
 
 ## Type scale
