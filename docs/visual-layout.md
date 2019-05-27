@@ -45,14 +45,23 @@ Layout
 จำนวนของคอลัมเพิ่มหรือลดตามความกว้างของหน้าจอในขณะที่ความกว้างของแต่ละคอลัมนั้นคงที่
 
 ### Application Structure
+##### Desktop and Tablet
 ![01](images/visual-layout/screenRegions-01.png)
 1. Global Application bar 
 2. Local Navigation bar
 3. Extension panel
 
 ![01](images/visual-layout/screenRegions-02.png)
-4. Application bar acess with dropdown
+4. Application bar accessed with dropdown
+ 
 ![01](images/visual-layout/screenRegions-03.png)
 5. Overlay modal
+
 ![01](images/visual-layout/screenRegions-04.png)
 6. Full screen modal
+
+##### Mobile
+![01](images/visual-layout/Mobile-structure.png)
+1. Application bar
+2. Content area
+3. Main navigation
