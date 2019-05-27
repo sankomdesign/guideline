@@ -289,6 +289,11 @@
                 "title": "Grid behaviors",
                 "depth": 3,
                 "id": "grid-behaviors"
+              },
+              {
+                "title": "Application Structure",
+                "depth": 3,
+                "id": "application-structure"
               }
             ]
           },
@@ -642,6 +647,11 @@
           "title": "Grid behaviors",
           "depth": 3,
           "id": "grid-behaviors"
+        },
+        {
+          "title": "Application Structure",
+          "depth": 3,
+          "id": "application-structure"
         }
       ]
     },
@@ -762,17 +772,17 @@
     "docs/images/input-control/Switch-Case.jpg": "images/input-control/Switch-Case.jpg",
     "docs/images/input-control/Switch-Specs.jpg": "images/input-control/Switch-Specs.jpg",
     "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
+    "docs/images/navigation/pms-01.jpg": "images/navigation/pms-01.jpg",
+    "docs/images/navigation/pms-02.jpg": "images/navigation/pms-02.jpg",
+    "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
+    "docs/images/navigation/pms-04.jpg": "images/navigation/pms-04.jpg",
+    "docs/images/navigation/pms-05.jpg": "images/navigation/pms-05.jpg",
     "docs/images/modals/Alert-Modal.jpg": "images/modals/Alert-Modal.jpg",
     "docs/images/modals/Confirmation-Modal.jpg": "images/modals/Confirmation-Modal.jpg",
     "docs/images/modals/Modal-Anatomy.jpg": "images/modals/Modal-Anatomy.jpg",
     "docs/images/modals/Modal-Desktop-Spec.jpg": "images/modals/Modal-Desktop-Spec.jpg",
     "docs/images/modals/Modal-Mobile-Spec.jpg": "images/modals/Modal-Mobile-Spec.jpg",
     "docs/images/modals/Simple-Modal.jpg": "images/modals/Simple-Modal.jpg",
-    "docs/images/navigation/pms-01.jpg": "images/navigation/pms-01.jpg",
-    "docs/images/navigation/pms-02.jpg": "images/navigation/pms-02.jpg",
-    "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
-    "docs/images/navigation/pms-04.jpg": "images/navigation/pms-04.jpg",
-    "docs/images/navigation/pms-05.jpg": "images/navigation/pms-05.jpg",
     "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-1.jpg": "images/snack-bar/Snack-Bar-Button-1.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-2.jpg": "images/snack-bar/Snack-Bar-Button-2.jpg",
@@ -818,6 +828,10 @@
     "docs/images/visual-layout/Desktop.png": "images/visual-layout/Desktop.png",
     "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png",
     "docs/images/visual-layout/Mobile.png": "images/visual-layout/Mobile.png",
-    "docs/images/visual-layout/Tablet.png": "images/visual-layout/Tablet.png"
+    "docs/images/visual-layout/Tablet.png": "images/visual-layout/Tablet.png",
+    "docs/images/visual-layout/screenRegions-01.png": "images/visual-layout/screenRegions-01.png",
+    "docs/images/visual-layout/screenRegions-02.png": "images/visual-layout/screenRegions-02.png",
+    "docs/images/visual-layout/screenRegions-03.png": "images/visual-layout/screenRegions-03.png",
+    "docs/images/visual-layout/screenRegions-04.png": "images/visual-layout/screenRegions-04.png"
   }
 }
