@@ -36,8 +36,23 @@ Layout
 
 1. Fluid columns
 2. Fixed boxes
-3. Keylines
-   
+
 ##### Fluid column
 การแบ่งคอลัมแบบยืดหยุ่นให้ความสำคัญกับขนาดมากกว่าจำนวนของคอลัม
 ที่ขนาดของหน้าจอใด (Each breakpoint) ให้กำหนดจำนวนคอลัมตามที่ต้องการในขณะที่ความกว้างของคอลัมนั้นเปลี่ยนแปลงไปตามความกว้างของหน้าจอ
+
+##### Fixed Boxes
+จำนวนของคอลัมเพิ่มหรือลดตามความกว้างของหน้าจอในขณะที่ความกว้างของแต่ละคอลัมนั้นคงที่
+
+### Application Structure
+![01](images/visual-layout/screenRegions-01.png)
+1. Global Application bar 
+2. Local Navigation bar
+3. Extension panel
+
+![01](images/visual-layout/screenRegions-02.png)
+4. Application bar acess with dropdown
+![01](images/visual-layout/screenRegions-03.png)
+5. Overlay modal
+![01](images/visual-layout/screenRegions-04.png)
+6. Full screen modal

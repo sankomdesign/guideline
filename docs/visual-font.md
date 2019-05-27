@@ -21,7 +21,7 @@ Fonts
 ![Roboto-SanSerif](images/visual-font/Fonteng-interface.png)
 
 ## Multiple Language
-โปรดหลีกเลี่ยงการออกแบบแอฟลิเคชั่นที่มีหลายภาษา หากต้องการให้มีหลายภาษาแนะนำให้แสดงที่ละภาษาและมีปุ่มเปลี่ยนภาษา
+โปรดหลีกเลี่ยงการออกแบบแอฟลิเคชั่นที่มีหลายภาษา หากต้องการให้มีหลายภาษาแนะนำให้แสดงทีละภาษาและมีปุ่มเปลี่ยนภาษา
 
 เพราะภาษาอะไรก็ตามที่อยู่ด้านหลัง " / " มี Discoverable ลดลง
 ![Roboto-SanSerif](images/visual-font/MultiLanguage-dont.png)
