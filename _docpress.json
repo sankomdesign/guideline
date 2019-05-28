@@ -96,7 +96,14 @@
               {
                 "title": "Button",
                 "depth": 2,
-                "id": "button"
+                "id": "button",
+                "headings": [
+                  {
+                    "title": "ใช้ปุ่มอย่างไร ให้ผู้ใช้งานทำงานได้อย่างถูกต้อง",
+                    "depth": 3,
+                    "id": ""
+                  }
+                ]
               },
               {
                 "title": "Selection Control",
@@ -340,7 +347,14 @@
         {
           "title": "Button",
           "depth": 2,
-          "id": "button"
+          "id": "button",
+          "headings": [
+            {
+              "title": "ใช้ปุ่มอย่างไร ให้ผู้ใช้งานทำงานได้อย่างถูกต้อง",
+              "depth": 3,
+              "id": ""
+            }
+          ]
         },
         {
           "title": "Selection Control",
@@ -492,15 +506,19 @@
     "docs/favicon.ico": "favicon.ico",
     "docs/images/logo-sansiri.jpg": "images/logo-sansiri.jpg",
     "docs/images/application-bar/1400.png": "images/application-bar/1400.png",
-    "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/application-bar/Group.png": "images/application-bar/Group.png",
-    "docs/images/banner/Banner-Anatomy.jpg": "images/banner/Banner-Anatomy.jpg",
+    "docs/images/application-bar/700.png": "images/application-bar/700.png",
     "docs/images/banner/Banner-Large-1.jpg": "images/banner/Banner-Large-1.jpg",
+    "docs/images/banner/Banner-Anatomy.jpg": "images/banner/Banner-Anatomy.jpg",
     "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
     "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
+    "docs/images/button/3-Button.jpg": "images/button/3-Button.jpg",
+    "docs/images/button/Cancel-Button.jpg": "images/button/Cancel-Button.jpg",
     "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
     "docs/images/button/Icon+Primary-Button-Case.jpg": "images/button/Icon+Primary-Button-Case.jpg",
+    "docs/images/button/Negative-Flow.jpg": "images/button/Negative-Flow.jpg",
     "docs/images/button/Outline-Button.jpg": "images/button/Outline-Button.jpg",
+    "docs/images/button/Positive-Flow.jpg": "images/button/Positive-Flow.jpg",
     "docs/images/button/Text-Button.jpg": "images/button/Text-Button.jpg",
     "docs/images/button/Text-Label-Case.jpg": "images/button/Text-Label-Case.jpg",
     "docs/images/button/Toggle-Button.jpg": "images/button/Toggle-Button.jpg",
