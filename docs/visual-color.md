@@ -29,7 +29,8 @@ Colors
 
 
 ## Themes
-![Branding](images/visual-color/color-theme.png)
+![Branding](images/visual-color/color-LightTheme06.png)
+![Branding](images/visual-color/color-LightTheme07.png)
 
 สีที่ใช้ประกอบเป็นแอฟฟลิเคชั่นสามารถเลือกใช้ได้ทั้ง 2 theme พร้อมๆกันในแอฟฟลิเคชั่นเดียวกัน  ยกตัวอย่างเช่น Light theme - เมื่อล็อกอินเข้ามาเป็นผู้ใช้งาน หรือ Dark theme - เมื่อล็อกอินเข้ามาเป็นผู้ดูแลระบบ หรือใช้ทั้ง 2 theme พร้อมๆกันเมื่อต้องการให้แอฟฟลิเคชั่นมี Contrast ต่างกันมากๆในแต่ละ element เพื่อสร้าง visual hierarchy
 
@@ -39,4 +40,6 @@ Colors
 ตัวอย่างการใช้งานเมื่อต้องการให้ element ใดๆ นั้นโดดเด่นออกมาเป็นจุดสนใจ
 
 ![Branding](images/visual-color/color-LightTheme04.jpg)
+![Branding](images/visual-color/color-LightTheme08.png)
 ![Branding](images/visual-color/color-LightTheme05.jpg)
+![Branding](images/visual-color/color-LightTheme09.png)
