@@ -91,7 +91,41 @@
               {
                 "title": "Input Box",
                 "depth": 2,
-                "id": "input-box"
+                "id": "input-box",
+                "headings": [
+                  {
+                    "title": "Anatomy",
+                    "depth": 3,
+                    "id": "anatomy"
+                  },
+                  {
+                    "title": "State",
+                    "depth": 3,
+                    "id": "state"
+                  },
+                  {
+                    "title": "Required text indicator",
+                    "depth": 3,
+                    "id": "required-text-indicator"
+                  }
+                ]
+              },
+              {
+                "title": "Selection Control",
+                "depth": 2,
+                "id": "selection-control",
+                "headings": [
+                  {
+                    "title": "How to use",
+                    "depth": 3,
+                    "id": "how-to-use"
+                  },
+                  {
+                    "title": "Dropdown",
+                    "depth": 3,
+                    "id": "dropdown"
+                  }
+                ]
               },
               {
                 "title": "Button",
@@ -124,11 +158,6 @@
                     "id": "too-many-action"
                   }
                 ]
-              },
-              {
-                "title": "Selection Control",
-                "depth": 2,
-                "id": "selection-control"
               },
               {
                 "title": "Modal",
@@ -379,7 +408,41 @@
         {
           "title": "Input Box",
           "depth": 2,
-          "id": "input-box"
+          "id": "input-box",
+          "headings": [
+            {
+              "title": "Anatomy",
+              "depth": 3,
+              "id": "anatomy"
+            },
+            {
+              "title": "State",
+              "depth": 3,
+              "id": "state"
+            },
+            {
+              "title": "Required text indicator",
+              "depth": 3,
+              "id": "required-text-indicator"
+            }
+          ]
+        },
+        {
+          "title": "Selection Control",
+          "depth": 2,
+          "id": "selection-control",
+          "headings": [
+            {
+              "title": "How to use",
+              "depth": 3,
+              "id": "how-to-use"
+            },
+            {
+              "title": "Dropdown",
+              "depth": 3,
+              "id": "dropdown"
+            }
+          ]
         },
         {
           "title": "Button",
@@ -412,11 +475,6 @@
               "id": "too-many-action"
             }
           ]
-        },
-        {
-          "title": "Selection Control",
-          "depth": 2,
-          "id": "selection-control"
         },
         {
           "title": "Modal",
@@ -623,10 +681,8 @@
     "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
     "docs/images/navigation/pms-04.jpg": "images/navigation/pms-04.jpg",
     "docs/images/navigation/pms-05.jpg": "images/navigation/pms-05.jpg",
-    "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
-    "docs/images/text-box/Text-Box-Indicator.jpg": "images/text-box/Text-Box-Indicator.jpg",
-    "docs/images/text-box/Text-Box-Spec.jpg": "images/text-box/Text-Box-Spec.jpg",
-    "docs/images/text-box/Text-Box-State.jpg": "images/text-box/Text-Box-State.jpg",
+    "docs/images/selection-control/Selection-Control-Case.jpg": "images/selection-control/Selection-Control-Case.jpg",
+    "docs/images/selection-control/Switch-Case.jpg": "images/selection-control/Switch-Case.jpg",
     "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-1.jpg": "images/snack-bar/Snack-Bar-Button-1.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-2.jpg": "images/snack-bar/Snack-Bar-Button-2.jpg",
@@ -634,6 +690,10 @@
     "docs/images/snack-bar/Snack-Bar-Delay.jpg": "images/snack-bar/Snack-Bar-Delay.jpg",
     "docs/images/snack-bar/Snack-Bar-Spec.jpg": "images/snack-bar/Snack-Bar-Spec.jpg",
     "docs/images/snack-bar/Snack-Bar-Text-Label-1.jpg": "images/snack-bar/Snack-Bar-Text-Label-1.jpg",
+    "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
+    "docs/images/text-box/Text-Box-Indicator.jpg": "images/text-box/Text-Box-Indicator.jpg",
+    "docs/images/text-box/Text-Box-Spec.jpg": "images/text-box/Text-Box-Spec.jpg",
+    "docs/images/text-box/Text-Box-State.jpg": "images/text-box/Text-Box-State.jpg",
     "docs/images/visual-color/01.jpg": "images/visual-color/01.jpg",
     "docs/images/visual-color/02.jpg": "images/visual-color/02.jpg",
     "docs/images/visual-color/03.jpg": "images/visual-color/03.jpg",
