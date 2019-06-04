@@ -113,19 +113,7 @@
               {
                 "title": "Selection Control",
                 "depth": 2,
-                "id": "selection-control",
-                "headings": [
-                  {
-                    "title": "How to use",
-                    "depth": 3,
-                    "id": "how-to-use"
-                  },
-                  {
-                    "title": "Dropdown",
-                    "depth": 3,
-                    "id": "dropdown"
-                  }
-                ]
+                "id": "selection-control"
               },
               {
                 "title": "Button",
@@ -153,9 +141,9 @@
                     "id": "why-cancel-button-should-have-lowest-contrast"
                   },
                   {
-                    "title": "Too many action",
+                    "title": "More than 2 button",
                     "depth": 3,
-                    "id": "too-many-action"
+                    "id": "more-than-2-button"
                   }
                 ]
               },
@@ -430,19 +418,7 @@
         {
           "title": "Selection Control",
           "depth": 2,
-          "id": "selection-control",
-          "headings": [
-            {
-              "title": "How to use",
-              "depth": 3,
-              "id": "how-to-use"
-            },
-            {
-              "title": "Dropdown",
-              "depth": 3,
-              "id": "dropdown"
-            }
-          ]
+          "id": "selection-control"
         },
         {
           "title": "Button",
@@ -470,9 +446,9 @@
               "id": "why-cancel-button-should-have-lowest-contrast"
             },
             {
-              "title": "Too many action",
+              "title": "More than 2 button",
               "depth": 3,
-              "id": "too-many-action"
+              "id": "more-than-2-button"
             }
           ]
         },
@@ -644,8 +620,8 @@
     "docs/images/banner/Banner-Large-1.jpg": "images/banner/Banner-Large-1.jpg",
     "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
     "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
-    "docs/images/button/3-Button.jpg": "images/button/3-Button.jpg",
     "docs/images/button/Cancel-Button.jpg": "images/button/Cancel-Button.jpg",
+    "docs/images/button/3-Button.jpg": "images/button/3-Button.jpg",
     "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
     "docs/images/button/Icon+Primary-Button-Case.jpg": "images/button/Icon+Primary-Button-Case.jpg",
     "docs/images/button/Negative-Flow.jpg": "images/button/Negative-Flow.jpg",
@@ -681,6 +657,8 @@
     "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
     "docs/images/navigation/pms-04.jpg": "images/navigation/pms-04.jpg",
     "docs/images/navigation/pms-05.jpg": "images/navigation/pms-05.jpg",
+    "docs/images/selection-control/Dropdown.jpg": "images/selection-control/Dropdown.jpg",
+    "docs/images/selection-control/Searchable-Dropdown.jpg": "images/selection-control/Searchable-Dropdown.jpg",
     "docs/images/selection-control/Selection-Control-Case.jpg": "images/selection-control/Selection-Control-Case.jpg",
     "docs/images/selection-control/Switch-Case.jpg": "images/selection-control/Switch-Case.jpg",
     "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
