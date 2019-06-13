@@ -91,24 +91,7 @@
               {
                 "title": "Input Box",
                 "depth": 2,
-                "id": "input-box",
-                "headings": [
-                  {
-                    "title": "Anatomy",
-                    "depth": 3,
-                    "id": "anatomy"
-                  },
-                  {
-                    "title": "State",
-                    "depth": 3,
-                    "id": "state"
-                  },
-                  {
-                    "title": "Required text indicator",
-                    "depth": 3,
-                    "id": "required-text-indicator"
-                  }
-                ]
+                "id": "input-box"
               },
               {
                 "title": "Selection Control",
@@ -401,24 +384,7 @@
         {
           "title": "Input Box",
           "depth": 2,
-          "id": "input-box",
-          "headings": [
-            {
-              "title": "Anatomy",
-              "depth": 3,
-              "id": "anatomy"
-            },
-            {
-              "title": "State",
-              "depth": 3,
-              "id": "state"
-            },
-            {
-              "title": "Required text indicator",
-              "depth": 3,
-              "id": "required-text-indicator"
-            }
-          ]
+          "id": "input-box"
         },
         {
           "title": "Selection Control",
@@ -683,6 +649,7 @@
     "docs/images/snack-bar/Snack-Bar-Spec.jpg": "images/snack-bar/Snack-Bar-Spec.jpg",
     "docs/images/snack-bar/Snack-Bar-Text-Label-1.jpg": "images/snack-bar/Snack-Bar-Text-Label-1.jpg",
     "docs/images/text-box/Text-Box-Anatomy.jpg": "images/text-box/Text-Box-Anatomy.jpg",
+    "docs/images/text-box/Text-Box-Apperance.jpg": "images/text-box/Text-Box-Apperance.jpg",
     "docs/images/text-box/Text-Box-Indicator.jpg": "images/text-box/Text-Box-Indicator.jpg",
     "docs/images/text-box/Text-Box-SpaceAndPosition.png": "images/text-box/Text-Box-SpaceAndPosition.png",
     "docs/images/text-box/Text-Box-Spec.jpg": "images/text-box/Text-Box-Spec.jpg",
