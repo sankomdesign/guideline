@@ -119,14 +119,9 @@
                     "id": "negative-flow"
                   },
                   {
-                    "title": "Why Cancel Button should have lowest contrast",
+                    "title": "Why low contrast button should be applied",
                     "depth": 3,
-                    "id": "why-cancel-button-should-have-lowest-contrast"
-                  },
-                  {
-                    "title": "More than 2 button",
-                    "depth": 3,
-                    "id": "more-than-2-button"
+                    "id": "why-low-contrast-button-should-be-applied"
                   }
                 ]
               },
@@ -136,19 +131,14 @@
                 "id": "modal",
                 "headings": [
                   {
-                    "title": "Anatomy",
+                    "title": "Basic Anatomy",
                     "depth": 3,
-                    "id": "anatomy"
+                    "id": "basic-anatomy"
                   },
                   {
                     "title": "Priority of Modal",
                     "depth": 3,
                     "id": "priority-of-modal"
-                  },
-                  {
-                    "title": "Make sense your Modal",
-                    "depth": 3,
-                    "id": "make-sense-your-modal"
                   }
                 ]
               },
@@ -161,6 +151,11 @@
                 "title": "Card",
                 "depth": 2,
                 "id": "card"
+              },
+              {
+                "title": "Loading Element",
+                "depth": 2,
+                "id": "loading-element"
               }
             ]
           },
@@ -412,14 +407,9 @@
               "id": "negative-flow"
             },
             {
-              "title": "Why Cancel Button should have lowest contrast",
+              "title": "Why low contrast button should be applied",
               "depth": 3,
-              "id": "why-cancel-button-should-have-lowest-contrast"
-            },
-            {
-              "title": "More than 2 button",
-              "depth": 3,
-              "id": "more-than-2-button"
+              "id": "why-low-contrast-button-should-be-applied"
             }
           ]
         },
@@ -429,19 +419,14 @@
           "id": "modal",
           "headings": [
             {
-              "title": "Anatomy",
+              "title": "Basic Anatomy",
               "depth": 3,
-              "id": "anatomy"
+              "id": "basic-anatomy"
             },
             {
               "title": "Priority of Modal",
               "depth": 3,
               "id": "priority-of-modal"
-            },
-            {
-              "title": "Make sense your Modal",
-              "depth": 3,
-              "id": "make-sense-your-modal"
             }
           ]
         },
@@ -454,6 +439,11 @@
           "title": "Card",
           "depth": 2,
           "id": "card"
+        },
+        {
+          "title": "Loading Element",
+          "depth": 2,
+          "id": "loading-element"
         }
       ]
     },
@@ -602,6 +592,8 @@
     "docs/images/button/Cancel-Button.jpg": "images/button/Cancel-Button.jpg",
     "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
     "docs/images/button/Icon+Primary-Button-Case.jpg": "images/button/Icon+Primary-Button-Case.jpg",
+    "docs/images/button/Low-Contrast-Do.jpg": "images/button/Low-Contrast-Do.jpg",
+    "docs/images/button/Low-Contrast-Don't.jpg": "images/button/Low-Contrast-Don't.jpg",
     "docs/images/button/Negative-Flow.jpg": "images/button/Negative-Flow.jpg",
     "docs/images/button/Outline-Button.jpg": "images/button/Outline-Button.jpg",
     "docs/images/button/Positive-Flow.jpg": "images/button/Positive-Flow.jpg",
@@ -629,6 +621,7 @@
     "docs/images/input-control/Switch-Case.jpg": "images/input-control/Switch-Case.jpg",
     "docs/images/input-control/Switch-Specs.jpg": "images/input-control/Switch-Specs.jpg",
     "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
+    "docs/images/loading/Loading-Element.jpg": "images/loading/Loading-Element.jpg",
     "docs/images/modal/Make-Sense-Your-Modal.jpg": "images/modal/Make-Sense-Your-Modal.jpg",
     "docs/images/modal/Modal-Anatomy.jpg": "images/modal/Modal-Anatomy.jpg",
     "docs/images/modal/Modal-Case.jpg": "images/modal/Modal-Case.jpg",
@@ -637,9 +630,12 @@
     "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
     "docs/images/navigation/pms-04.jpg": "images/navigation/pms-04.jpg",
     "docs/images/navigation/pms-05.jpg": "images/navigation/pms-05.jpg",
+    "docs/images/progressbar-spinner/Spinner_and_ProgressBar.jpg": "images/progressbar-spinner/Spinner_and_ProgressBar.jpg",
     "docs/images/selection-control/Dropdown.jpg": "images/selection-control/Dropdown.jpg",
+    "docs/images/selection-control/Label-Alignment.jpg": "images/selection-control/Label-Alignment.jpg",
     "docs/images/selection-control/Searchable-Dropdown.jpg": "images/selection-control/Searchable-Dropdown.jpg",
     "docs/images/selection-control/Selection-Control-Case.jpg": "images/selection-control/Selection-Control-Case.jpg",
+    "docs/images/selection-control/Selection-Control-Type.jpg": "images/selection-control/Selection-Control-Type.jpg",
     "docs/images/selection-control/Switch-Case.jpg": "images/selection-control/Switch-Case.jpg",
     "docs/images/snack-bar/Snack-Bar-Anatomy.jpg": "images/snack-bar/Snack-Bar-Anatomy.jpg",
     "docs/images/snack-bar/Snack-Bar-Button-1.jpg": "images/snack-bar/Snack-Bar-Button-1.jpg",
@@ -674,8 +670,8 @@
     "docs/images/visual-color/color-LightTheme06.png": "images/visual-color/color-LightTheme06.png",
     "docs/images/visual-color/color-LightTheme07.png": "images/visual-color/color-LightTheme07.png",
     "docs/images/visual-color/color-LightTheme08.png": "images/visual-color/color-LightTheme08.png",
-    "docs/images/visual-color/color-LightTheme09.png": "images/visual-color/color-LightTheme09.png",
     "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
+    "docs/images/visual-color/color-LightTheme09.png": "images/visual-color/color-LightTheme09.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
     "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
