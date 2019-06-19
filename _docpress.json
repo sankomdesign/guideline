@@ -101,29 +101,7 @@
               {
                 "title": "Button",
                 "depth": 2,
-                "id": "button",
-                "headings": [
-                  {
-                    "title": "ใช้ปุ่มอย่างไร ให้ผู้ใช้งานทำงานได้อย่างถูกต้อง",
-                    "depth": 3,
-                    "id": ""
-                  },
-                  {
-                    "title": "Positive Flow",
-                    "depth": 3,
-                    "id": "positive-flow"
-                  },
-                  {
-                    "title": "Negative Flow",
-                    "depth": 3,
-                    "id": "negative-flow"
-                  },
-                  {
-                    "title": "Why low contrast button should be applied",
-                    "depth": 3,
-                    "id": "why-low-contrast-button-should-be-applied"
-                  }
-                ]
+                "id": "button"
               },
               {
                 "title": "Modal",
@@ -389,29 +367,7 @@
         {
           "title": "Button",
           "depth": 2,
-          "id": "button",
-          "headings": [
-            {
-              "title": "ใช้ปุ่มอย่างไร ให้ผู้ใช้งานทำงานได้อย่างถูกต้อง",
-              "depth": 3,
-              "id": ""
-            },
-            {
-              "title": "Positive Flow",
-              "depth": 3,
-              "id": "positive-flow"
-            },
-            {
-              "title": "Negative Flow",
-              "depth": 3,
-              "id": "negative-flow"
-            },
-            {
-              "title": "Why low contrast button should be applied",
-              "depth": 3,
-              "id": "why-low-contrast-button-should-be-applied"
-            }
-          ]
+          "id": "button"
         },
         {
           "title": "Modal",
@@ -588,6 +544,11 @@
     "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
     "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
     "docs/images/button/3-Button.jpg": "images/button/3-Button.jpg",
+    "docs/images/button/Button-Type-Ghost.jpg": "images/button/Button-Type-Ghost.jpg",
+    "docs/images/button/Button-Type-Primary.jpg": "images/button/Button-Type-Primary.jpg",
+    "docs/images/button/Button-Type-Secondary.jpg": "images/button/Button-Type-Secondary.jpg",
+    "docs/images/button/Button-Type-Tertiary.jpg": "images/button/Button-Type-Tertiary.jpg",
+    "docs/images/button/Button-level.jpg": "images/button/Button-level.jpg",
     "docs/images/button/Button-structure.png": "images/button/Button-structure.png",
     "docs/images/button/Cancel-Button.jpg": "images/button/Cancel-Button.jpg",
     "docs/images/button/Contained-Button.jpg": "images/button/Contained-Button.jpg",
@@ -670,8 +631,8 @@
     "docs/images/visual-color/color-LightTheme06.png": "images/visual-color/color-LightTheme06.png",
     "docs/images/visual-color/color-LightTheme07.png": "images/visual-color/color-LightTheme07.png",
     "docs/images/visual-color/color-LightTheme08.png": "images/visual-color/color-LightTheme08.png",
-    "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
     "docs/images/visual-color/color-LightTheme09.png": "images/visual-color/color-LightTheme09.png",
+    "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
     "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
