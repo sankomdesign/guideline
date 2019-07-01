@@ -147,11 +147,11 @@ Element. คือส่วนที่ประกอบขึ้นเป็�
 
 1.Overlay Modal
 
-![01](images/visual-layout/screenRegions-03.png)
+![01](images/modal/Overlay-Modal.jpg)
 
 2.Full Screen Modal
 
-![01](images/visual-layout/screenRegions-04.png)
+![01](images/modal/FullScreen-Modal.jpg)
 
 ### Basic Anatomy
 ![Modal](images/modal/Modal-Anatomy.jpg)
@@ -192,3 +192,33 @@ Element. คือส่วนที่ประกอบขึ้นเป็�
 | Progress Bar    | > 4 seconds    |
 
 ![Modal](images/loading/Loading-Element.jpg)
+
+## Breadcrumb
+ใช้เพื่อเป็น Navigation รองจาก Navigation Bar เพื่อบอกที่อยู่ปัจจุบันของผู้ใช้งานในรูปแบบลำดับชั้น หรือ ใช้เพื่อกลับไปยังหน้าจอที่ผู้ใช้จากมา
+
+#### Appearance
+1. Location based breadcrumb
+
+![Navigation](images/breadcrumb/Location-Based.jpg)
+
+![Navigation](images/breadcrumb/Breadcrumb-Case-1.jpg)
+![Navigation](images/breadcrumb/Breadcrumb-Case-2.jpg)
+ไม่ใส่ Link ที่หน้าต่างปัจจุบันที่ผู้ใช้งานกำลังใช้งานอยู่ และไม่ควรใช้ถ้าหากมีหน้าจอย่อยเพียงแค่หน้าจอเดียว
+
+2. History based breadcrumb
+
+![Navigation](images/breadcrumb/History-Based.jpg)
+
+#### Basic Anatomy
+![Navigation](images/breadcrumb/Breadcrumb-Anatomy.jpg)
+1. **ชื่อหน้าจอ** / Screen Label 
+2. **ตัวแบ่ง** / Separator 
+3. **ชื่อหน้าจอปัจจุบัน** / Current Screen Label 
+
+#### Alignment
+![Navigation](images/breadcrumb/Breadcrumb-Alignment.jpg)
+
+#### Placement
+![Navigation](images/breadcrumb/Breadcrumb-Placement.jpg)
+![Navigation](images/breadcrumb/Breadcrumb-Placement2.jpg)
+วาง Breadcrumb เอาไว้ด้านบนของหน้าจอ เพราะเป็นส่วนที่ผู้ใช้งานสามารถมองเห็นได้ชัดเจน
