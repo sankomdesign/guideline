@@ -134,6 +134,11 @@
                 "title": "Loading Element",
                 "depth": 2,
                 "id": "loading-element"
+              },
+              {
+                "title": "Breadcrumb",
+                "depth": 2,
+                "id": "breadcrumb"
               }
             ]
           },
@@ -400,6 +405,11 @@
           "title": "Loading Element",
           "depth": 2,
           "id": "loading-element"
+        },
+        {
+          "title": "Breadcrumb",
+          "depth": 2,
+          "id": "breadcrumb"
         }
       ]
     },
@@ -543,6 +553,14 @@
     "docs/images/banner/Banner-Large-1.jpg": "images/banner/Banner-Large-1.jpg",
     "docs/images/banner/Banner-Small-1.jpg": "images/banner/Banner-Small-1.jpg",
     "docs/images/banner/Banner-Small-2.jpg": "images/banner/Banner-Small-2.jpg",
+    "docs/images/breadcrumb/Breadcrumb-Alignment.jpg": "images/breadcrumb/Breadcrumb-Alignment.jpg",
+    "docs/images/breadcrumb/Breadcrumb-Anatomy.jpg": "images/breadcrumb/Breadcrumb-Anatomy.jpg",
+    "docs/images/breadcrumb/Breadcrumb-Case-1.jpg": "images/breadcrumb/Breadcrumb-Case-1.jpg",
+    "docs/images/breadcrumb/Breadcrumb-Case-2.jpg": "images/breadcrumb/Breadcrumb-Case-2.jpg",
+    "docs/images/breadcrumb/Breadcrumb-Placement.jpg": "images/breadcrumb/Breadcrumb-Placement.jpg",
+    "docs/images/breadcrumb/Breadcrumb-Placement2.jpg": "images/breadcrumb/Breadcrumb-Placement2.jpg",
+    "docs/images/breadcrumb/History-Based.jpg": "images/breadcrumb/History-Based.jpg",
+    "docs/images/breadcrumb/Location-Based.jpg": "images/breadcrumb/Location-Based.jpg",
     "docs/images/button/3-Button.jpg": "images/button/3-Button.jpg",
     "docs/images/button/Button-Type-Ghost.jpg": "images/button/Button-Type-Ghost.jpg",
     "docs/images/button/Button-Type-Primary.jpg": "images/button/Button-Type-Primary.jpg",
@@ -583,9 +601,11 @@
     "docs/images/input-control/Switch-Specs.jpg": "images/input-control/Switch-Specs.jpg",
     "docs/images/input-control/Switch.jpg": "images/input-control/Switch.jpg",
     "docs/images/loading/Loading-Element.jpg": "images/loading/Loading-Element.jpg",
+    "docs/images/modal/FullScreen-Modal.jpg": "images/modal/FullScreen-Modal.jpg",
     "docs/images/modal/Make-Sense-Your-Modal.jpg": "images/modal/Make-Sense-Your-Modal.jpg",
     "docs/images/modal/Modal-Anatomy.jpg": "images/modal/Modal-Anatomy.jpg",
     "docs/images/modal/Modal-Case.jpg": "images/modal/Modal-Case.jpg",
+    "docs/images/modal/Overlay-Modal.jpg": "images/modal/Overlay-Modal.jpg",
     "docs/images/navigation/pms-01.jpg": "images/navigation/pms-01.jpg",
     "docs/images/navigation/pms-02.jpg": "images/navigation/pms-02.jpg",
     "docs/images/navigation/pms-03.jpg": "images/navigation/pms-03.jpg",
@@ -645,8 +665,8 @@
     "docs/images/visual-font/Fonteng-interface.png": "images/visual-font/Fonteng-interface.png",
     "docs/images/visual-font/Fonteng-title.png": "images/visual-font/Fonteng-title.png",
     "docs/images/visual-font/Fonteng-toneOfVoice-List.png": "images/visual-font/Fonteng-toneOfVoice-List.png",
-    "docs/images/visual-font/Fonteng-toneOfVoice.png": "images/visual-font/Fonteng-toneOfVoice.png",
     "docs/images/visual-font/Fontthai-Body.png": "images/visual-font/Fontthai-Body.png",
+    "docs/images/visual-font/Fonteng-toneOfVoice.png": "images/visual-font/Fonteng-toneOfVoice.png",
     "docs/images/visual-font/Fontthai-Fontselection.png": "images/visual-font/Fontthai-Fontselection.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice-List.png": "images/visual-font/Fontthai-ToneOfVoice-List.png",
     "docs/images/visual-font/Fontthai-ToneOfVoice.png": "images/visual-font/Fontthai-ToneOfVoice.png",
