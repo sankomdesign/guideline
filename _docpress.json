@@ -83,7 +83,19 @@
             "title": "Layout",
             "source": "docs/guideline-layout.md",
             "url": "guideline-layout.html",
-            "slug": "guideline-layout"
+            "slug": "guideline-layout",
+            "headings": [
+              {
+                "title": "Application Structure",
+                "depth": 3,
+                "id": "application-structure"
+              },
+              {
+                "title": "Apperance",
+                "depth": 3,
+                "id": "apperance"
+              }
+            ]
           },
           {
             "title": "Element",
@@ -163,10 +175,10 @@
             ]
           },
           {
-            "title": "Layout",
-            "source": "docs/visual-layout.md",
-            "url": "visual-layout.html",
-            "slug": "visual-layout",
+            "title": "Grid",
+            "source": "docs/visual-grid.md",
+            "url": "visual-grid.html",
+            "slug": "visual-grid",
             "headings": [
               {
                 "title": "Column",
@@ -182,16 +194,6 @@
                 "title": "Grid behaviors",
                 "depth": 3,
                 "id": "grid-behaviors"
-              },
-              {
-                "title": "Application Structure",
-                "depth": 3,
-                "id": "application-structure"
-              },
-              {
-                "title": "Apperance",
-                "depth": 3,
-                "id": "apperance"
               }
             ]
           },
@@ -353,7 +355,19 @@
       "source": "docs/guideline-layout.md",
       "title": "Layout - Sankom Design",
       "pageTitle": "Layout",
-      "slug": "guideline-layout"
+      "slug": "guideline-layout",
+      "headings": [
+        {
+          "title": "Application Structure",
+          "depth": 3,
+          "id": "application-structure"
+        },
+        {
+          "title": "Apperance",
+          "depth": 3,
+          "id": "apperance"
+        }
+      ]
     },
     "guideline-element.html": {
       "source": "docs/guideline-element.md",
@@ -421,11 +435,11 @@
         }
       ]
     },
-    "visual-layout.html": {
-      "source": "docs/visual-layout.md",
-      "title": "Layout - Sankom Design",
-      "pageTitle": "Layout",
-      "slug": "visual-layout",
+    "visual-grid.html": {
+      "source": "docs/visual-grid.md",
+      "title": "Grid - Sankom Design",
+      "pageTitle": "Grid",
+      "slug": "visual-grid",
       "headings": [
         {
           "title": "Column",
@@ -441,16 +455,6 @@
           "title": "Grid behaviors",
           "depth": 3,
           "id": "grid-behaviors"
-        },
-        {
-          "title": "Application Structure",
-          "depth": 3,
-          "id": "application-structure"
-        },
-        {
-          "title": "Apperance",
-          "depth": 3,
-          "id": "apperance"
         }
       ]
     },
@@ -534,7 +538,7 @@
     "docs/guideline-layout.md": "guideline-layout.html",
     "docs/guideline-element.md": "guideline-element.html",
     "docs/visual-color.md": "visual-color.html",
-    "docs/visual-layout.md": "visual-layout.html",
+    "docs/visual-grid.md": "visual-grid.html",
     "docs/visual-font.md": "visual-font.html",
     "docs/contribute.md": "contribute.html",
     "docs/docpress.json": "docpress.json",
