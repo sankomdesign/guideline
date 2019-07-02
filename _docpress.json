@@ -80,7 +80,10 @@
             "slug": "guideline-navigation"
           },
           {
-            "title": "Panel"
+            "title": "Layout",
+            "source": "docs/guideline-layout.md",
+            "url": "guideline-layout.html",
+            "slug": "guideline-layout"
           },
           {
             "title": "Element",
@@ -106,19 +109,7 @@
               {
                 "title": "Modal",
                 "depth": 2,
-                "id": "modal",
-                "headings": [
-                  {
-                    "title": "Basic Anatomy",
-                    "depth": 3,
-                    "id": "basic-anatomy"
-                  },
-                  {
-                    "title": "Priority of Modal",
-                    "depth": 3,
-                    "id": "priority-of-modal"
-                  }
-                ]
+                "id": "modal"
               },
               {
                 "title": "List of items",
@@ -131,9 +122,9 @@
                 "id": "card"
               },
               {
-                "title": "Loading Element",
+                "title": "Loader",
                 "depth": 2,
-                "id": "loading-element"
+                "id": "loader"
               },
               {
                 "title": "Breadcrumb",
@@ -196,6 +187,11 @@
                 "title": "Application Structure",
                 "depth": 3,
                 "id": "application-structure"
+              },
+              {
+                "title": "Apperance",
+                "depth": 3,
+                "id": "apperance"
               }
             ]
           },
@@ -353,6 +349,12 @@
       "pageTitle": "Navigation",
       "slug": "guideline-navigation"
     },
+    "guideline-layout.html": {
+      "source": "docs/guideline-layout.md",
+      "title": "Layout - Sankom Design",
+      "pageTitle": "Layout",
+      "slug": "guideline-layout"
+    },
     "guideline-element.html": {
       "source": "docs/guideline-element.md",
       "title": "Element - Sankom Design",
@@ -377,19 +379,7 @@
         {
           "title": "Modal",
           "depth": 2,
-          "id": "modal",
-          "headings": [
-            {
-              "title": "Basic Anatomy",
-              "depth": 3,
-              "id": "basic-anatomy"
-            },
-            {
-              "title": "Priority of Modal",
-              "depth": 3,
-              "id": "priority-of-modal"
-            }
-          ]
+          "id": "modal"
         },
         {
           "title": "List of items",
@@ -402,9 +392,9 @@
           "id": "card"
         },
         {
-          "title": "Loading Element",
+          "title": "Loader",
           "depth": 2,
-          "id": "loading-element"
+          "id": "loader"
         },
         {
           "title": "Breadcrumb",
@@ -456,6 +446,11 @@
           "title": "Application Structure",
           "depth": 3,
           "id": "application-structure"
+        },
+        {
+          "title": "Apperance",
+          "depth": 3,
+          "id": "apperance"
         }
       ]
     },
@@ -536,6 +531,7 @@
     "docs/getting-start.md": "getting-start.html",
     "docs/design-principle.md": "design-principle.html",
     "docs/guideline-navigation.md": "guideline-navigation.html",
+    "docs/guideline-layout.md": "guideline-layout.html",
     "docs/guideline-element.md": "guideline-element.html",
     "docs/visual-color.md": "visual-color.html",
     "docs/visual-layout.md": "visual-layout.html",
@@ -677,6 +673,7 @@
     "docs/images/visual-font/MultiLanguage-dont.png": "images/visual-font/MultiLanguage-dont.png",
     "docs/images/visual-layout/Desktop.png": "images/visual-layout/Desktop.png",
     "docs/images/visual-layout/Layout-Overview.png": "images/visual-layout/Layout-Overview.png",
+    "docs/images/visual-layout/Layout-Structure.jpg": "images/visual-layout/Layout-Structure.jpg",
     "docs/images/visual-layout/Mobile-structure.png": "images/visual-layout/Mobile-structure.png",
     "docs/images/visual-layout/Mobile.png": "images/visual-layout/Mobile.png",
     "docs/images/visual-layout/Tablet.png": "images/visual-layout/Tablet.png",
