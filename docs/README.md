@@ -9,7 +9,7 @@
 
 - Guideline
   - [Navigation](guideline-navigation.md)
-  - Panel
+  - [Layout](guideline-layout.md)
   - [Element](guideline-element.md)
   - Plugin
   - New Account
