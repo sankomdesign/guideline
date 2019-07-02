@@ -16,7 +16,7 @@
   
 - Visual
   - [Colors](visual-color.md)
-  - [Layout](visual-layout.md)
+  - [Grid](visual-grid.md)
   - [Fonts](visual-font.md)
   - Icon
 
