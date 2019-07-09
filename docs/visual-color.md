@@ -2,31 +2,44 @@ Colors
 ==========
 สีที่นำมาใช้สร้าง User interface ไม่เพียงแค่สื่อสารด้านความสวยงานและ Branding เท่านั้น แต่ยังต้องสือสารความหมายพิเศษบางอย่างที่มีความเกี่ยวข้องกับเหตุการณ์ที่มีผลกระทบโดยตรงกับผู้ใช้งานในขณะนั้นด้วย
 
-##### 1. Branding (Corporate) color
-##### 2. User Interface color
-
-
 ## Branding color
-![Branding](images/visual-color/01.jpg)
-![Branding](images/visual-color/02.jpg)
+![Branding](images/visual-color/theme-primary.png)
 
-##### Tech-BI Blue (Dim version)
-- #001326 
-- #00254D
+ชุดสีหลักนำไปใช้ประกอบเป็น User interface โดยนำไปใช้สร้าง UI element ต่างๆ
 
-ชุดสีที่เกี่ยวข้องกับโลโก้คือ เมื่อไรก็ตามที่ Panal ใดๆหากมีโลโก้อยู่อนุญาติให้ใช้ได้เพียง 2 สีที่กำหมดไว้เท่านั้น
-สีน้ำเงินที่เหลือนั้น (Tint and shade) หากไม่มีโลโก้อยู่สามารถใช้ไปประกอบเป็น User interface element ได้
+**1. Application background**
 
-![Branding](images/visual-color/03.jpg)
-![Branding](images/visual-color/04.jpg)
+**2. Panel**
 
+**3. Call-to-action button**
+
+**4. interactive element**
+
+## Interactive color
+#### **เพียงแค่กวาดตามอง รู้ว่าตรงใหนกดได้**
+การแยก interactive item ออกจากข้อมูลแสดงผลได้อย่างรวดเร็ว ช่วยเพิ่มประสิทธิภาพในการทำงานให้กับผู้ใช้งาน
+นอกจากรูปร่างรูปทรงที่ดูเป็นปุ่มแล้ว สีก็เป็นอีกสิ่งหนึ่งที่สามารถแยกทั้งสองสิ่งออกจากกันได้
+
+![Branding](images/visual-color/theme-interactiveItem.png)
+
+## System message color
+![Branding](images/visual-color/theme-systemMessage.png)
+
+ชุดสีต่อไปนี้ขอให้เก็บไว้เฉพาะแสดงข้อความที่ตอบรับจากระบบ
+
+**1. Notification / ข้อความบอกเล่า**
+
+**2. Danger / ข้อความอันตราย**
+
+**3. Warning / ข้อความเตือน**
+
+**4. Accept / ข้อความตอบรับ**
 
 การตัดสินใจใช้สีพื้นหลังของ Ui element ต่างๆให้คำนึงถึง contrast และ legibility เป็นหลัก
 ตัวอย่างด้านบนทั้งหมดสามารถใช้งานได้มี contrast ที่สูงและอ่านได้ง่าย เว้น ui element บางตัวที่มี contrast ต่ำเพื่อสือสารให้รับรู้ว่าเคยกดได้แต่ยังไม่ใช่ตอนนี้
 
 ![Branding](images/visual-color/05.jpg)
 การตัดสินใจใช้สีต่างๆเพื่อสร้าง Ui element ให้คำนึงถึง interaction เป็นอันดับแรกโดยเก็บสี Primary ไว้ให้กับ element ที่เกี่ยวข้องกับการทำ Primary task เพื่อการสื่อสารที่ชัดเจนว่าในขณะๆ แอฟลิเคชั่นต้องการให้ทำอะไร
-
 
 ## Themes
 ไม่ใช่เพียงแค่การกำหนดรูปร่างหน้าตาและสีสันของ Ui element เท่านั้น แต่รวมไปถึงสไตล์และเนื้อหาของรูปภาพ,ไอคอนและภาษาคำศัพท์ที่ช่วยเพิ่มประสิทธิภาพการสื่อสารระหว่างผู้ใช้งานกับระบบ
@@ -43,13 +56,11 @@ Colors
 
 ![Branding](images/visual-color/theme-icon01.png)
 
-
 #### **Application สามารถอธิบายตัวเองได้**
 ช่วยอธิบายระบบให้ผู้ใช้งานได้รู้ได้อย่างรวดเร็วไม่ผิดพลาดหรือทำให้เกิดการเข้าใจผิด
 
 #### **ต้องช่วยให้ผู้ใช้งานดูภาพรวม, แนวโน้ม, เปรียบเทียบของชุดข้อมูลได้ง่าย**
 ภาพรวมของ UI Element ต้องช่วยให้ผู้ใช้งานเข้าถึงและแปลความหมายไปในทางสรุปภาพรวมได้ แนวโน้มที่เปลื่ยนแปลงไป และเปรียบเทียบระหว่างชุดข้อมูลได้มีประสิทธิภาพ
-
 
 ![Branding](images/visual-color/color-LightTheme06.png)
 ![Branding](images/visual-color/color-LightTheme07.png)
@@ -59,6 +70,7 @@ Colors
 ![Branding](images/visual-color/color-LightTheme01.png)
 ![Branding](images/visual-color/color-LightTheme02.png)
 ![Branding](images/visual-color/color-LightTheme03.png)
+
 ตัวอย่างการใช้งานเมื่อต้องการให้ element ใดๆ นั้นโดดเด่นออกมาเป็นจุดสนใจ
 
 ![Branding](images/visual-color/color-LightTheme04.jpg)
