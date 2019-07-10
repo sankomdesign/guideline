@@ -173,6 +173,11 @@
                 "id": "interactive-color"
               },
               {
+                "title": "Disable state",
+                "depth": 2,
+                "id": "disable-state"
+              },
+              {
                 "title": "System message color",
                 "depth": 2,
                 "id": "system-message-color"
@@ -444,6 +449,11 @@
           "id": "interactive-color"
         },
         {
+          "title": "Disable state",
+          "depth": 2,
+          "id": "disable-state"
+        },
+        {
           "title": "System message color",
           "depth": 2,
           "id": "system-message-color"
@@ -672,6 +682,9 @@
     "docs/images/visual-color/color-LightTheme08.png": "images/visual-color/color-LightTheme08.png",
     "docs/images/visual-color/color-LightTheme09.png": "images/visual-color/color-LightTheme09.png",
     "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
+    "docs/images/visual-color/theme-disableState1.png": "images/visual-color/theme-disableState1.png",
+    "docs/images/visual-color/theme-disableState2.png": "images/visual-color/theme-disableState2.png",
+    "docs/images/visual-color/theme-disableState3.png": "images/visual-color/theme-disableState3.png",
     "docs/images/visual-color/theme-icon01.png": "images/visual-color/theme-icon01.png",
     "docs/images/visual-color/theme-interactiveItem.png": "images/visual-color/theme-interactiveItem.png",
     "docs/images/visual-color/theme-message01.png": "images/visual-color/theme-message01.png",
