@@ -38,6 +38,12 @@ Colors
 
 หากเมื่อสีของพื้นหลังนั้นเปลี่ยนไป เราก็ไม่จำเป็นต้องกำหนดสีของปุ่ม Disable ใหม่เพราะว่าหน้าตาของปุ่ม Disable 30% Opacity ยังคงดูเหมือนกดไม่ได้เมื่อมองผ่านๆ
 
+## Remove all visual noise
+#### **การแบ่งเนื้อหาออกเป็นส่วนๆ**
+การใช้ Contrast เพียงเล็กน้อยก็สามารถแยกเนื้อหาออกจากกันได้แล้ว ให้เก็บ High contrast ไว้กับส่วนของเนื้อหาที่สำคัญหรือต้องการเรียกร้องความสนใจของผู้ใช้งาน
+
+![Branding](images/visual-color/theme-visualNoise1.png)
+
 ## System message color
 ![Branding](images/visual-color/theme-systemMessage.png)
 
