@@ -178,6 +178,11 @@
                 "id": "disable-state"
               },
               {
+                "title": "Remove all visual noise",
+                "depth": 2,
+                "id": "remove-all-visual-noise"
+              },
+              {
                 "title": "System message color",
                 "depth": 2,
                 "id": "system-message-color"
@@ -454,6 +459,11 @@
           "id": "disable-state"
         },
         {
+          "title": "Remove all visual noise",
+          "depth": 2,
+          "id": "remove-all-visual-noise"
+        },
+        {
           "title": "System message color",
           "depth": 2,
           "id": "system-message-color"
@@ -692,6 +702,7 @@
     "docs/images/visual-color/theme-message03.png": "images/visual-color/theme-message03.png",
     "docs/images/visual-color/theme-primary.png": "images/visual-color/theme-primary.png",
     "docs/images/visual-color/theme-systemMessage.png": "images/visual-color/theme-systemMessage.png",
+    "docs/images/visual-color/theme-visualNoise1.png": "images/visual-color/theme-visualNoise1.png",
     "docs/images/visual-font/01.jpg": "images/visual-font/01.jpg",
     "docs/images/visual-font/02.jpg": "images/visual-font/02.jpg",
     "docs/images/visual-font/04.jpg": "images/visual-font/04.jpg",
