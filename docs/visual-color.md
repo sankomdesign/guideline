@@ -90,21 +90,24 @@ Colors
 
 **4. Empty UI element** ช่องกรอกที่รอให้ผู้ใช้งานกรอกควรจะดูว่างเปล่า
 
-
 #### **ต้องช่วยให้ผู้ใช้งานดูภาพรวม, แนวโน้ม, เปรียบเทียบของชุดข้อมูลได้ง่าย**
 ภาพรวมของ UI Element ต้องช่วยให้ผู้ใช้งานเข้าถึงและแปลความหมายไปในทางสรุปภาพรวมได้ แนวโน้มที่เปลื่ยนแปลงไป และเปรียบเทียบระหว่างชุดข้อมูลได้มีประสิทธิภาพ
 
-![Branding](images/visual-color/color-LightTheme07.png)
+## Color combination
+#### **Bright theme**
+![Branding](images/visual-color/theme-colorCom01.png)
 
-สีที่ใช้ประกอบเป็นแอฟฟลิเคชั่นสามารถเลือกใช้ได้ทั้ง 2 theme พร้อมๆกันในแอฟฟลิเคชั่นเดียวกัน ยกตัวอย่างเช่น Light theme - เมื่อล็อกอินเข้ามาเป็นผู้ใช้งาน หรือ Dark theme - เมื่อล็อกอินเข้ามาเป็นผู้ดูแลระบบ หรือใช้ทั้ง 2 theme พร้อมๆกันเมื่อต้องการให้แอฟฟลิเคชั่นมี Contrast ต่างกันมากๆในแต่ละ element เพื่อสร้าง visual hierarchy
+#### **Dark theme**
+![Branding](images/visual-color/theme-colorCom02.png)
 
-![Branding](images/visual-color/color-LightTheme01.png)
-![Branding](images/visual-color/color-LightTheme02.png)
-![Branding](images/visual-color/color-LightTheme03.png)
+![Branding](images/visual-color/color-LightTheme05.jpg)
+![Branding](images/visual-color/color-LightTheme09.png)
 
-ตัวอย่างการใช้งานเมื่อต้องการให้ element ใดๆ นั้นโดดเด่นออกมาเป็นจุดสนใจ
+
+#### **Hybrid theme**
+เมื่อแอ๊ปฟลิเคชั่นขยายตัวหรือมีความซับซ้อนสามารถใช้ทั้ง 2 Theme พร้อมๆกันได้เพื่อแยกเรื่องต่างๆออกจากกัน
 
 ![Branding](images/visual-color/color-LightTheme04.jpg)
 ![Branding](images/visual-color/color-LightTheme08.png)
-![Branding](images/visual-color/color-LightTheme05.jpg)
-![Branding](images/visual-color/color-LightTheme09.png)
+
+
