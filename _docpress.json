@@ -196,6 +196,11 @@
                 "title": "Color combination",
                 "depth": 2,
                 "id": "color-combination"
+              },
+              {
+                "title": "Elevation and Focused item",
+                "depth": 2,
+                "id": "elevation-and-focused-item"
               }
             ]
           },
@@ -261,40 +266,42 @@
             ]
           },
           {
-            "title": "Icon"
-          }
-        ]
-      },
-      {
-        "title": "Contribute",
-        "source": "docs/contribute.md",
-        "url": "contribute.html",
-        "slug": "contribute",
-        "headings": [
-          {
-            "title": "Clone project",
-            "depth": 2,
-            "id": "clone-project"
-          },
-          {
-            "title": "ติดตั้ง node.js และ docpress",
-            "depth": 2,
-            "id": "node.js-docpress"
-          },
-          {
-            "title": "เปิด web server บนเครื่อง",
-            "depth": 2,
-            "id": "web-server"
-          },
-          {
-            "title": "edit document",
-            "depth": 2,
-            "id": "edit-document"
-          },
-          {
-            "title": "deploy your document",
-            "depth": 2,
-            "id": "deploy-your-document"
+            "title": "Icon",
+            "sections": [
+              {
+                "title": "Contribute",
+                "source": "docs/contribute.md",
+                "url": "contribute.html",
+                "slug": "contribute",
+                "headings": [
+                  {
+                    "title": "Clone project",
+                    "depth": 2,
+                    "id": "clone-project"
+                  },
+                  {
+                    "title": "ติดตั้ง node.js และ docpress",
+                    "depth": 2,
+                    "id": "node.js-docpress"
+                  },
+                  {
+                    "title": "เปิด web server บนเครื่อง",
+                    "depth": 2,
+                    "id": "web-server"
+                  },
+                  {
+                    "title": "edit document",
+                    "depth": 2,
+                    "id": "edit-document"
+                  },
+                  {
+                    "title": "deploy your document",
+                    "depth": 2,
+                    "id": "deploy-your-document"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -482,6 +489,11 @@
           "title": "Color combination",
           "depth": 2,
           "id": "color-combination"
+        },
+        {
+          "title": "Elevation and Focused item",
+          "depth": 2,
+          "id": "elevation-and-focused-item"
         }
       ]
     },
@@ -707,9 +719,14 @@
     "docs/images/visual-color/theme-disableState1.png": "images/visual-color/theme-disableState1.png",
     "docs/images/visual-color/theme-disableState2.png": "images/visual-color/theme-disableState2.png",
     "docs/images/visual-color/theme-disableState3.png": "images/visual-color/theme-disableState3.png",
+    "docs/images/visual-color/theme-elevation1.png": "images/visual-color/theme-elevation1.png",
+    "docs/images/visual-color/theme-elevation2.png": "images/visual-color/theme-elevation2.png",
+    "docs/images/visual-color/theme-elevation3.png": "images/visual-color/theme-elevation3.png",
     "docs/images/visual-color/theme-icon01.png": "images/visual-color/theme-icon01.png",
     "docs/images/visual-color/theme-icon02.png": "images/visual-color/theme-icon02.png",
     "docs/images/visual-color/theme-icon03.png": "images/visual-color/theme-icon03.png",
+    "docs/images/visual-color/theme-icon04.png": "images/visual-color/theme-icon04.png",
+    "docs/images/visual-color/theme-icon05.png": "images/visual-color/theme-icon05.png",
     "docs/images/visual-color/theme-interactiveItem.png": "images/visual-color/theme-interactiveItem.png",
     "docs/images/visual-color/theme-intuitive01.png": "images/visual-color/theme-intuitive01.png",
     "docs/images/visual-color/theme-message01.png": "images/visual-color/theme-message01.png",
