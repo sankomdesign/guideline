@@ -72,9 +72,14 @@ Colors
 
 ![Branding](images/visual-color/theme-icon03.png)
 
+![Branding](images/visual-color/theme-icon04.png)
+
+![Branding](images/visual-color/theme-icon05.png)
+
 ![Branding](images/visual-color/theme-icon02.png)
 
 ![Branding](images/visual-color/theme-icon01.png)
+
 
 #### **Application สามารถอธิบายตัวเองได้**
 ช่วยอธิบายระบบให้ผู้ใช้งานได้รู้ได้อย่างรวดเร็วไม่ผิดพลาดหรือทำให้เกิดการเข้าใจผิด
@@ -95,9 +100,11 @@ Colors
 
 ## Color combination
 #### **Bright theme**
+
 ![Branding](images/visual-color/theme-colorCom01.png)
 
 #### **Dark theme**
+
 ![Branding](images/visual-color/theme-colorCom02.png)
 
 ![Branding](images/visual-color/color-LightTheme05.jpg)
@@ -105,9 +112,22 @@ Colors
 
 
 #### **Hybrid theme**
+
 เมื่อแอ๊ปฟลิเคชั่นขยายตัวหรือมีความซับซ้อนสามารถใช้ทั้ง 2 Theme พร้อมๆกันได้เพื่อแยกเรื่องต่างๆออกจากกัน
 
 ![Branding](images/visual-color/color-LightTheme04.jpg)
 ![Branding](images/visual-color/color-LightTheme08.png)
 
 
+## Elevation and Focused item
+การทำให้ Ui element มีหน้าตาที่ดูเหมือนนูนออกมาและยุบลงไปนอกจากความสวยงามแล้ว ยังช่วยในเรื่องการสื่อสารกับผู้ใช้งานด้วย ไม่เพียงแค่บอกว่าตรงให้คือปุ่มแต่ยังบอกได้อีกว่าปุ่มให้ถูกกดอยู่ สามารถสร้าง Visual hierarchy โดยให้เนื้อหาที่อยู่บนสุดคือเนื่อหาที่สำคัญที่สุด เนื้อหาที่อยู่ไกลออกไปคือสำคัญน้อยลง
+
+##### **Elevation structure**
+![Branding](images/visual-color/theme-elevation1.png)
+
+
+##### **Active / Enable / Disable**
+![Branding](images/visual-color/theme-elevation2.png)
+
+##### **Selected item**
+![Branding](images/visual-color/theme-elevation3.png)
