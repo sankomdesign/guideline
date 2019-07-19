@@ -135,6 +135,22 @@ Colors
 ##### **Elevation structure**
 ![Branding](images/visual-color/theme-elevation1.png)
 
+![Branding](images/visual-color/theme-elevation4.png)
+
+**A. Ground Level** พื้นหลักของตัวแอ๊ปฟลิเคชั่นเอาไว้วาง Ui element หลักๆ เช่นชื่อของแอ๊ปฟลิเคชั่น, Page Navigation, Global search และสถานะของผู้ใช้งาน
+
+**B. Basement** หากต้องการให้เกิด Visual hierarchy ให้ใช้ Basement อะไรก็ตามที่อยู่บนนี้จะมีความสำคัญน้อยลงเพราะเนื้อหาส่วนนี้ดูไกลกว่า Ground level
+นอกจากนั้นแล้วยังได้ sense ของพื้นที่ว่างและลด Visual noise
+
+**C. Float** มีการลงเงามากกว่า Ui element อื่นๆเพื่อให้ดูลอยออกมาจาก Ground Level เหมาะสำหรับ Ui element ที่มีการ Toggle หรือ Floating call-to-action
+
+1. **Container on Basement** 
+2. **Selected** 
+3. **Hover** 
+4. **Static**
+
+
+
 
 ##### **Active / Enable / Disable**
 ![Branding](images/visual-color/theme-elevation2.png)
