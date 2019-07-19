@@ -15,6 +15,12 @@ Colors
 
 **4. interactive element**
 
+## Alternative color
+เมืื่อแอ๊ปฟลิเคชั่นมีความซับซ้อนมากขึ้น จำเป็นต้องใช้อื่นๆนอกเหนือจากสี branding เพื่อแยก Ui element ที่ทำงานต่างกันออกจากกัน
+
+![Branding](images/visual-color/theme-alternative-color01.png)
+![Branding](images/visual-color/theme-alternative-color02.png)
+
 ## Interactive color
 #### **เพียงแค่กวาดตามอง รู้ว่าตรงใหนกดได้**
 การแยก interactive item ออกจากข้อมูลแสดงผลได้อย่างรวดเร็ว ช่วยเพิ่มประสิทธิภาพในการทำงานให้กับผู้ใช้งาน
@@ -57,7 +63,7 @@ Colors
 
 **4. Accept / ข้อความตอบรับ**
 
-## Themes
+## Language and icon
 ไม่ใช่เพียงแค่การกำหนดรูปร่างหน้าตาและสีสันของ Ui element เท่านั้น แต่รวมไปถึงสไตล์และเนื้อหาของรูปภาพ,ไอคอนและภาษาคำศัพท์ที่ช่วยเพิ่มประสิทธิภาพการสื่อสารระหว่างผู้ใช้งานกับระบบ
 
 #### **ใช้ภาษาที่ผู้ใช้งานคุ้นเคยและเข้าใจง่าย**
@@ -69,6 +75,10 @@ Colors
 
 #### **ดูมีชีวิตชีวา**
 การไอคอนและภาพประกอบเพื่อสื่อความหมายต่างๆภายในแอ๊ปฟลิเคชั่นนอกจากช่วยเพิ่มประสิทธิภาพการสื่อสารระหว่างระบบกับผู้ใช้แล้ว ยังทำให้แอ็ปฟลิเคชั่นดูมีชีวิตชีวาและเป็นมิตรกับผู้ใช้งานมากขึ้น
+
+[Download icon](https://sansirimail-my.sharepoint.com/:f:/g/personal/suralertj_sansiri_com/EmSU2FCFGdBIi8s8wtIIjtIBRBRDaghXjJO1zpxdUWwVSw?e=zaU8gN)
+
+
 
 ![Branding](images/visual-color/theme-icon03.png)
 
@@ -130,4 +140,6 @@ Colors
 ![Branding](images/visual-color/theme-elevation2.png)
 
 ##### **Selected item**
+เมื่อผู้ใช้งานละสายตาออกไปจากรายการไปสนใจเนื้อหาส่วนอื่นแล้วกลับมาดูรายการอีกครั้ง ผู้ใช้งานไม่ต้องเสียเวลามากกับการหารายการที่เลือกอยู่ เพราะรายการที่เลือกอยู่ดูต่างจากอันอื่นมาก 
+
 ![Branding](images/visual-color/theme-elevation3.png)

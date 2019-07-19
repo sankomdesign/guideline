@@ -15,7 +15,7 @@
   - New Account
   
 - Visual
-  - [Colors](visual-color.md)
+  - [Theme](visual-color.md)
   - [Grid](visual-grid.md)
   - [Fonts](visual-font.md)
   - Icon
