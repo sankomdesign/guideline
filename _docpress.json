@@ -157,7 +157,7 @@
         "title": "Visual",
         "sections": [
           {
-            "title": "Colors",
+            "title": "Theme",
             "source": "docs/visual-color.md",
             "url": "visual-color.html",
             "slug": "visual-color",
@@ -166,6 +166,11 @@
                 "title": "Branding color",
                 "depth": 2,
                 "id": "branding-color"
+              },
+              {
+                "title": "Alternative color",
+                "depth": 2,
+                "id": "alternative-color"
               },
               {
                 "title": "Interactive color",
@@ -188,9 +193,9 @@
                 "id": "system-message-color"
               },
               {
-                "title": "Themes",
+                "title": "Language and icon",
                 "depth": 2,
-                "id": "themes"
+                "id": "language-and-icon"
               },
               {
                 "title": "Color combination",
@@ -451,14 +456,19 @@
     },
     "visual-color.html": {
       "source": "docs/visual-color.md",
-      "title": "Colors - Sankom Design",
-      "pageTitle": "Colors",
+      "title": "Theme - Sankom Design",
+      "pageTitle": "Theme",
       "slug": "visual-color",
       "headings": [
         {
           "title": "Branding color",
           "depth": 2,
           "id": "branding-color"
+        },
+        {
+          "title": "Alternative color",
+          "depth": 2,
+          "id": "alternative-color"
         },
         {
           "title": "Interactive color",
@@ -481,9 +491,9 @@
           "id": "system-message-color"
         },
         {
-          "title": "Themes",
+          "title": "Language and icon",
           "depth": 2,
-          "id": "themes"
+          "id": "language-and-icon"
         },
         {
           "title": "Color combination",
@@ -714,6 +724,8 @@
     "docs/images/visual-color/color-LightTheme08.png": "images/visual-color/color-LightTheme08.png",
     "docs/images/visual-color/color-LightTheme09.png": "images/visual-color/color-LightTheme09.png",
     "docs/images/visual-color/color-theme.png": "images/visual-color/color-theme.png",
+    "docs/images/visual-color/theme-alternative-color01.png": "images/visual-color/theme-alternative-color01.png",
+    "docs/images/visual-color/theme-alternative-color02.png": "images/visual-color/theme-alternative-color02.png",
     "docs/images/visual-color/theme-colorCom01.png": "images/visual-color/theme-colorCom01.png",
     "docs/images/visual-color/theme-colorCom02.png": "images/visual-color/theme-colorCom02.png",
     "docs/images/visual-color/theme-disableState1.png": "images/visual-color/theme-disableState1.png",
