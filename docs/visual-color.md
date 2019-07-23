@@ -150,8 +150,6 @@ Colors
 4. **Static**
 
 
-
-
 ##### **Active / Enable / Disable**
 ![Branding](images/visual-color/theme-elevation2.png)
 
