@@ -54,9 +54,9 @@
             "id": "contrast"
           },
           {
-            "title": "Repetition",
+            "title": "Proximity",
             "depth": 2,
-            "id": "repetition"
+            "id": "proximity"
           },
           {
             "title": "Alignment",
@@ -64,9 +64,9 @@
             "id": "alignment"
           },
           {
-            "title": "Proximity",
+            "title": "Repetition",
             "depth": 2,
-            "id": "proximity"
+            "id": "repetition"
           }
         ]
       },
@@ -366,9 +366,9 @@
           "id": "contrast"
         },
         {
-          "title": "Repetition",
+          "title": "Proximity",
           "depth": 2,
-          "id": "repetition"
+          "id": "proximity"
         },
         {
           "title": "Alignment",
@@ -376,9 +376,9 @@
           "id": "alignment"
         },
         {
-          "title": "Proximity",
+          "title": "Repetition",
           "depth": 2,
-          "id": "proximity"
+          "id": "repetition"
         }
       ]
     },
@@ -656,6 +656,10 @@
     "docs/images/button/Toggle-Button.jpg": "images/button/Toggle-Button.jpg",
     "docs/images/contribute/folder.png": "images/contribute/folder.png",
     "docs/images/contribute/run_server.png": "images/contribute/run_server.png",
+    "docs/images/design-principle/alignment01.png": "images/design-principle/alignment01.png",
+    "docs/images/design-principle/alignment02.png": "images/design-principle/alignment02.png",
+    "docs/images/design-principle/proximity01.png": "images/design-principle/proximity01.png",
+    "docs/images/design-principle/repeat01.png": "images/design-principle/repeat01.png",
     "docs/images/design-principle/text-contrast.png": "images/design-principle/text-contrast.png",
     "docs/images/element-list/list01.png": "images/element-list/list01.png",
     "docs/images/element-list/list02.png": "images/element-list/list02.png",
