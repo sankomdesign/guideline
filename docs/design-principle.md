@@ -11,14 +11,17 @@ Design Principle
 
 สีของตัวหนังสือ (Foreground color) ทางซ้ายมือมีความเข้มต่างจากสีพื้นหลัง (Background color) อย่างชัดเจน ช่วยให้อ่านข้อความได้ง่าย ต่างจากทางขวามือที่สีตัวหนังสือและพื้นหลังคล้ายกันทำให้อ่านยาก โดยเฉพาะกับหน้าจอที่มีความคมชัดต่ำ หรือกับกลุ่มผู้ใช้ที่มีปัญหาทางสายตา นอกจากนี้ขนาดและความหนาของหัวข้อทางซ้ายมือยังชัดเจนช่วยให้ผู้ใช้รู้ได้ทันทีว่าเป็นหัวข้อ ต่างจากทางขวามือที่ต้องตั้งใจดูจึงจะรู้ว่าเป็นหัวข้อ 
 
-## Repetition
+## Proximity 
 
-asdf
+![text contrast](images/design-principle/proximity01.png)
 
 ## Alignment
 
-asdf
+![text contrast](images/design-principle/alignment01.png)
+![text contrast](images/design-principle/alignment02.png)
 
-## Proximity 
+## Repetition
 
-asdf
+![text contrast](images/design-principle/repeat01.png)
+
+
