@@ -77,7 +77,24 @@
             "title": "Navigation",
             "source": "docs/guideline-navigation.md",
             "url": "guideline-navigation.html",
-            "slug": "guideline-navigation"
+            "slug": "guideline-navigation",
+            "headings": [
+              {
+                "title": "Overview",
+                "depth": 3,
+                "id": "overview"
+              },
+              {
+                "title": "Page structure",
+                "depth": 3,
+                "id": "page-structure"
+              },
+              {
+                "title": "Interactive design",
+                "depth": 3,
+                "id": "interactive-design"
+              }
+            ]
           },
           {
             "title": "Layout",
@@ -386,7 +403,24 @@
       "source": "docs/guideline-navigation.md",
       "title": "Navigation - Sankom Design",
       "pageTitle": "Navigation",
-      "slug": "guideline-navigation"
+      "slug": "guideline-navigation",
+      "headings": [
+        {
+          "title": "Overview",
+          "depth": 3,
+          "id": "overview"
+        },
+        {
+          "title": "Page structure",
+          "depth": 3,
+          "id": "page-structure"
+        },
+        {
+          "title": "Interactive design",
+          "depth": 3,
+          "id": "interactive-design"
+        }
+      ]
     },
     "guideline-layout.html": {
       "source": "docs/guideline-layout.md",
