@@ -41,13 +41,15 @@ Navigation
 
 ![Navigation](images/navigation/pms-04.jpg)
 
-**1. xxx** 
+Secondary screen จะแสดง Panal ที่แตกต่างกันตามปฏิสัมพันธ์ของผู้ใช้งานดังต่อไปนี้
 
-**2. xxx** 
+**1. Toggle selection** เมื่อ Checkbox มีการ Toggle บานด้านขวาจะแสดง action ที่สามารถทำได้
 
-**3. xxx** 
+**2. Item selection** เมื่อโดยตรงที่รายการบานด้านขวาจะแสดงส่วนต่อขยาย
 
-**4. xxx** 
+**3. Call-to-action** เมื่อต้องการ action ที่เฉพาะเจาะจงโดยไม่คำนึงถึงว่าผู้ใช้งานนั้นเลือกอะไรอยู่ (เช่น action การสร้างเอกสารใหม่)
+
+**4. Reference documentation** เมื่อต้องการดูเอกสารอ้างอิงจากรายการที่เลือก บานด้านขวาจะแสดงส่วนขยายเพิ่มเติม
 
 ![Navigation](images/navigation/pms-05.jpg)
 
